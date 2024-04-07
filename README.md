@@ -1,4 +1,4 @@
-# Vera Ko - Integrated Engineering Student
+# Integrated Engineering Student - Mechanical & Electrical
 
 ### Mechanical Engineering Experience
 #### Sailbot
