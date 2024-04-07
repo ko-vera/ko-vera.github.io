@@ -1,7 +1,7 @@
 # Vera Ko - Integrated Engineering Student
 
 ### Mechanical Engineering Experience
-Sailbot
+#### Sailbot
 - Solidworks CAD Parts & Assembly
 (/assets/rudderactuation)
 - Stress Calculations
@@ -9,16 +9,16 @@ Sailbot
 
 
 ### Electrical Engineering Experience
-CPEN 312
+#### CPEN 312
 - logic gates
 - Coding in VHDL 
 - 8051 Assembly
 
   
 ### Integrated Projects
-# IGEN 230 Capstone
+IGEN 230 Capstone
 - use of piezoelectrics
 
   
-# IGEN 230 Line Following Robot
+IGEN 230 Line Following Robot
 - using h-bridge, pwm controller
