@@ -3,7 +3,7 @@
 ### Mechanical Engineering Experience
 Sailbot
 - Solidworks CAD Parts & Assembly
-(/assets/img/rudderactuation)
+(/assets/rudderactuation)
 - Stress Calculations
 - Integration with Elec team - motors and encoders
 
