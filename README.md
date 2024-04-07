@@ -16,9 +16,9 @@
 
   
 ### Integrated Projects
-IGEN 230 Capstone
+#### IGEN 230 Capstone
 - use of piezoelectrics
 
   
-IGEN 230 Line Following Robot
+#### IGEN 230 Line Following Robot
 - using h-bridge, pwm controller
