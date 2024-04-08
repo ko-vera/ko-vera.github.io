@@ -14,15 +14,14 @@
 - Integration with Elec team - motors and encoders
 
 
-### Electrical Engineering Experience
-#### CPEN 312
+### CPEN 312 Labs
+#### Lab 1
 - logic gates
 - Coding in VHDL 
 - 8051 Assembly
 
   
-### Integrated Projects
-#### IGEN 230 Capstone
+### IGEN 230 Capstone
 - use of piezoelectrics
   
 <img src="/assets/numpadbreakdown" width="180">
@@ -31,9 +30,9 @@
 ![Untitled video - Made with Clipchamp](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/953a51cf-c60d-465f-b170-7065d8c8f2f6)
 
   
-#### IGEN 230 Line Following Robot
+### IGEN 230 Line Following Robot
 - using h-bridge, pwm controller
-### Written Arduino Code
+#### Written Arduino Code
 `int mr1=6;  //motor left 1`
 `int mr2=7;  //motor left 2`
 `int ml1=5;  //motor right 1`
