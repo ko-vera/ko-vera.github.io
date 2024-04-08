@@ -27,7 +27,6 @@
 - use of piezoelectrics
 <img src="/assets/numpadbreakdown" width="180">
 <img src="/assets/numpadexploded" width="180">
-![Untitled video - Made with Clipchamp](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/66baaeb2-5c34-4407-8bfa-ded6b4b024e6)
 
   
 #### IGEN 230 Line Following Robot
