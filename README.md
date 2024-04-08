@@ -6,8 +6,11 @@
 
 ----
 <body style="background-color:powderblue;">
+  
 ## UBC Sailbot - Rudder Mechanical Team Member
+  
 </body>
+
 [UBC Sailbot Website](https://www.ubcsailbot.org/)
 #### Solidworks CAD Parts & Assembly
 Designed motor, shafts, & timing belt as well as compiled assembly
