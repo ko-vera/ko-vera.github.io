@@ -13,7 +13,7 @@
 ### Structural Stress Calculations
 
 
-### Integration with ELEC
+#### Integration with ELEC
 - Decided on motors and encoders that satisfy the needs of both MECH & ELEC
 - Here you can see some minimum torque calculations that we did based on the worm gear we chose in order to spec a motor. This allowed us to determine how frequently our motor would be drawing maximum current and whether that is viable with the amount of power that the ELEC team is accounting for
   
