@@ -34,7 +34,7 @@ Used Piezoelectric discs to harvest and store energy using the tapping motion of
 #### Circuitry
 Implemented H-Bridge Board 
 
-<img src="/assets/hbridgeboard.png" width="200">
+<img src="/assets/hbridgeboard.png" width="400">
 - Used H-Bridge to control direction &rarr; run motors forwards and backwards - this works by opening and closing the respective switches shown
 
   <img src="/assets/hbridge.png" width="300">
