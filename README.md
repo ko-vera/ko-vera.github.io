@@ -27,38 +27,39 @@
   
 <img src="/assets/numpadbreakdown" width="180">
 <img src="/assets/numpadexploded" width="180">
+
 ![Untitled video - Made with Clipchamp](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/953a51cf-c60d-465f-b170-7065d8c8f2f6)
 
   
 #### IGEN 230 Line Following Robot
 - using h-bridge, pwm controller
 ### Written Arduino Code
-'int mr1=6;  //motor left 1'
-'int mr2=7;  //motor left 2'
-'int ml1=5;  //motor right 1'
-'int ml2=4;  //motor right 2'
+`int mr1=6;  //motor left 1`
+`int mr2=7;  //motor left 2`
+`int ml1=5;  //motor right 1`
+`int ml2=4;  //motor right 2`
 
-'const int sens1=A0;   //1st sensor'
-'const int sens2=A1;   //2nd sensor'
-'const int sens3=A2;   //3rd sensor'
+`const int sens1=A0;   //1st sensor`
+`const int sens2=A1;   //2nd sensor`
+`const int sens3=A2;   //3rd sensor`
 
-'const int THRESH1 = 1020;'
+`const int THRESH1 = 1020;`
 
-'int sens1_Val = 0;        // value read from the pot'
-'int sens2_Val = 0;'
-'int sens3_Val = 0;'
+`int sens1_Val = 0;        // value read from the pot`
+`int sens2_Val = 0;`
+`int sens3_Val = 0;`
 
-'int output1_Val = 0;     // value output to the PWM (analog out)'
-'int output2_Val = 0;'
-'int output3_Val = 0;'
+`int output1_Val = 0;     // value output to the PWM (analog out)`
+`int output2_Val = 0;`
+`int output3_Val = 0;`
 
-'int enr=3;'
-'int enl=9;'
+`int enr=3;`
+`int enl=9;`
 
-'int vspeed=160;' 
-'int tspeed=140;'
-'int stopdelay=30;'
-'int godelay=30;'
+`int vspeed=160;`
+`int tspeed=140;`
+`int stopdelay=30;`
+`int godelay=30;`
 
 
 'void   setup()'
