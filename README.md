@@ -33,15 +33,10 @@
 ### IGEN 230 Line Following Robot
 - using h-bridge, pwm controller
 #### Written Arduino Code
-<img src="/assets/code1" width="220">
+<img src="/assets/codeset1" width="400">
 
-<img src="/assets/code2" width="180">
+<img src="/assets/codeset2" width="400">
 
-<img src="/assets/code3" width="220">
+<img src="/assets/codeset3" width="400">
 
-<img src="/assets/code4" width="230">
-
-<img src="/assets/code5" width="220">
-
-<img src="/assets/code6" width="180">
 
