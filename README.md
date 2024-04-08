@@ -34,8 +34,11 @@
 - using h-bridge, pwm controller
 #### Written Arduino Code
 `int mr1=6;  //motor left 1
+
 int mr2=7;  //motor left 2
+
 int ml1=5;  //motor right 1
+
 int ml2=4;  //motor right 2`
 
 `const int sens1=A0;   //1st sensor`
