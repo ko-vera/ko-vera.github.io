@@ -23,7 +23,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
 <img src="/assets/zypic" width="280"><img src="/assets/zyFBD" width="390">
 <img src="/assets/torsional" width="290">
 
-<img src="/assets/zycalcs.png" width="240"><img src="/assets/zycalcs2.png" width="490"><img src="/assets/zycalcs3.png" width="280">
+<img src="/assets/zycalcs.png" width="240"><img src="/assets/zycalcs2.png" width="500"><img src="/assets/zycalcs3.png" width="260">
 
 
 #### Integration with ELEC
