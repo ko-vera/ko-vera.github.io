@@ -17,7 +17,7 @@
 - Decided on motors and encoders that satisfy the needs of both MECH & ELEC
 - Here you can see some minimum torque calculations that we did based on the worm gear we chose in order to spec a motor. This allowed us to determine how frequently our motor would be drawing maximum current and whether that is viable with the amount of power that the ELEC team is accounting for
 - 
-<img src="/assets/wormgearcalc1" width="500"> <img src="/assets/wormgearcalc2" width="500">
+<img src="/assets/wormgearcalc" width="500"> <img src="/assets/wormgearcalc2" width="500">
 
 ### CPEN 312 Labs
 #### Lab 1
