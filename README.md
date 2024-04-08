@@ -44,7 +44,7 @@ Implemented H-Bridge Board
   - There are two phototransistors on either side of the black line - when it sees white, there is more current & it moves forward, when one of them sees   black, it will turn in the coded direction
 
 
-<img src="/assets/borottop" width="400"><img src="/assets/borotside" width="400">
+<img src="/assets/borottop" width="200"><img src="/assets/borotside" width="200">
   
   
 
@@ -52,7 +52,7 @@ Implemented H-Bridge Board
 #### Coding Process
 [Arduino Code](/assets/Line Following Robot Code.txt)
 
-<img src="/assets/flowchart" width="500">
+<img src="/assets/flowchart" width="600">
 
 
 <!--<img src="/assets/code1" width="300"> <img src="/assets/code2" width="300"> <img src="/assets/code3" width="300">-->
