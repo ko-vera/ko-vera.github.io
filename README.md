@@ -1,10 +1,10 @@
 ## Integrated Engineering Student - Mechanical & Electrical
 
-<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/cd6c7775-5e18-4cb7-b367-4364af5e81c0" width="100">
+<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/cd6c7775-5e18-4cb7-b367-4364af5e81c0" width="150">
 
 ### UBC Sailbot - Rudder Mechanical Team Member
 #### Solidworks CAD Parts & Assembly
-<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="120"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="120">
+<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="180"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="120">
 
 
 - Stress Calculations
