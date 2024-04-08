@@ -32,7 +32,8 @@
   
 ### IGEN 230 Line Following Robot
 - using h-bridge, pwm controller
-![Untitled video - Made with Clipchamp (1)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/8f6b74bd-20b0-4ac7-8c4a-d9487a82ecf4)
+![Untitled video - Made with Clipchamp (2)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/e24929fb-96b1-41d2-889c-43a509dabb59)
+
 
 #### Coding Process
 [Arduino Code](/assets/Line Following Robot Code.txt)
