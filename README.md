@@ -48,7 +48,7 @@ Designed all parts, compiled assemblies, & ran motion studies
   - Used PWM to control speed &rarr; when the phototransistor sees white (more light) &rarr; more current
   - There are two phototransistors on either side of the black line - when it sees white, there is more current & it moves forward, when one of them sees   black, it will turn
     
-<img src="/assets/hbridgeboard.png" width="400"> <img src="/assets/hbridge.png" width="300">
+<img src="/assets/hbridgeboard.png" width="400"> <img src="/assets/hbridge.png" width="400">
 
 <br/>
 
