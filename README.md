@@ -7,7 +7,7 @@
 ----
 <h2 style="color:#000080;">
   
-## UBC Sailbot - Rudder Mechanical Team Member
+UBC Sailbot - Rudder Mechanical Team Member
   
 </h2>
 
