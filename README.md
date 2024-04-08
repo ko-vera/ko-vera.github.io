@@ -5,14 +5,10 @@
 <font size ="5"> 2nd Year UBC Integrated Engineering Student - Mechanical & Electrical</font>
 
 ----
-<h2 style="color:#4863A0;">
-  
-UBC Sailbot - Rudder Mechanical Team Member
-  
-</h2>
+<h2 style="color:#4863A0;"> UBC Sailbot - Rudder Mechanical Team Member </h2>
 
 [UBC Sailbot Website](https://www.ubcsailbot.org/)
-#### Solidworks CAD Parts & Assembly
+<h2 style="color:#4863A0;"> Solidworks CAD Parts & Assembly </h2>
 Designed motor, shafts, & timing belt as well as compiled assembly
 
 <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="180"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="300">
