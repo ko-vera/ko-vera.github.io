@@ -27,8 +27,11 @@
 
   
 ### IGEN 230 Capstone
+#### Project Description
 Used Piezoelectric discs to harvest and store energy using the tapping motion of keys on a numpad
-  
+#### Solidworks CAD Parts & Assembly
+Designed parts, compiled assemblies, & ran motion studies
+
 <img src="/assets/numpadbreakdown" width="300"> <img src="/assets/numpadexploded" width="300">
 
 ![Untitled video - Made with Clipchamp](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/953a51cf-c60d-465f-b170-7065d8c8f2f6)
