@@ -10,9 +10,13 @@
 #### Solidworks CAD Parts & Assembly
 <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="180"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="300">
 
-- Structural Stress Calculations
-- Integration with Elec team - motors and encoders
+### Structural Stress Calculations
 
+
+### Integration with Elec 
+- Decided on motors and encoders that satisfy the needs of both MECH & ELEC
+- Here you can see some minimum torque calculations that we did based on the worm gear we chose in order to spec a motor. This allowed us to determine how frequently our motor would be drawing maximum current and whether that is viable with the amount of power that the ELEC team is accounting for.
+<img src="/assets/wormgearcalc1" width="300"> <img src="/assets/wormgearcalc2" width="300">
 
 ### CPEN 312 Labs
 #### Lab 1
