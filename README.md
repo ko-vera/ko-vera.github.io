@@ -16,7 +16,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
 <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="180"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="300">
 
 #### Structural Stress Calculations
-<img src="/assets/zxFBD" width="310"><img src="/assets/zxcalcs.png" width="510">
+<img src="/assets/zxFBD" width="310"><img src="/assets/zxcalcs.png" width="610">
 
 <img src="/assets/zypic" width="280"><img src="/assets/zyFBD" width="390">
 <img src="/assets/torsional" width="290">
