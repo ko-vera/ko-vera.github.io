@@ -35,7 +35,8 @@
 ![Untitled video - Made with Clipchamp (1)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/8f6b74bd-20b0-4ac7-8c4a-d9487a82ecf4)
 
 #### Coding Process
-<img src="/assets/code1" width="300"> <img src="/assets/code2" width="300"> <img src="/assets/code3" width="300">
-<img src="/assets/code4" width="300"> <img src="/assets/code5" width="300"> <img src="/assets/code6" width="300">
+[Arduino Code](/assets/Line Following Robot Code.txt)
+<!--<img src="/assets/code1" width="300"> <img src="/assets/code2" width="300"> <img src="/assets/code3" width="300">-->
+<!--<img src="/assets/code4" width="300"> <img src="/assets/code5" width="300"> <img src="/assets/code6" width="300">-->
 
 
