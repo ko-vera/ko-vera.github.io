@@ -31,11 +31,17 @@
 
   
 ### IGEN 230 Line Following Robot
-- using h-bridge, pwm controller
+#### Circuitry
+Implemented H-Bridge Board (insert image)
+- Used H-Bridge to control direction &rarr; run motors forwards and backwards - this works by opening and closing the respective switches shown
+- Used PWM to control speed &rarr; when the phototransistor sees white (more light) &rarr; more current
+  - There are two phototransistors on either side of the black line - when it sees white, there is more current and it moves forward, when one of them sees   black, it will turn in the coded direction
+  
 ![Untitled video - Made with Clipchamp (2)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/e24929fb-96b1-41d2-889c-43a509dabb59)
 
 
 #### Coding Process
+<img src="/assets/flowchart.png" width="180">
 [Arduino Code](/assets/Line Following Robot Code.txt)
 <!--<img src="/assets/code1" width="300"> <img src="/assets/code2" width="300"> <img src="/assets/code3" width="300">-->
 <!--<img src="/assets/code4" width="300"> <img src="/assets/code5" width="300"> <img src="/assets/code6" width="300">-->
