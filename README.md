@@ -23,7 +23,8 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
 <img src="/assets/zypic" width="280"><img src="/assets/zyFBD" width="390">
 <img src="/assets/torsional" width="290">
 
-<img src="/assets/zycalcs.png" width="250"><img src="/assets/zycalcs2.png" width="490"><img src="/assets/zycalcs3.png" width="290">
+<img src="/assets/zycalcs.png" width="250"><img src="/assets/zycalcs2.png" width="490"><img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/fbb1c317-9903-4bba-aafa-c6fb74ad42ca" width="290">
+
 
 #### Integration with ELEC
 - Decided on motors and encoders that satisfy the needs of both MECH & ELEC
