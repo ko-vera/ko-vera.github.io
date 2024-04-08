@@ -47,9 +47,11 @@ Implemented H-Bridge Board
 
 
 #### Coding Process
-<img src="/assets/flowchart.png" width="400">
-
 [Arduino Code](/assets/Line Following Robot Code.txt)
+
+<img src="/assets/flowchart.png" width="450">
+
+
 <!--<img src="/assets/code1" width="300"> <img src="/assets/code2" width="300"> <img src="/assets/code3" width="300">-->
 <!--<img src="/assets/code4" width="300"> <img src="/assets/code5" width="300"> <img src="/assets/code6" width="300">-->
 
