@@ -1,7 +1,8 @@
 
-<font size ="5">Integrated Engineering Student - Mechanical & Electrical</font>
+
 <br/>
-<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/cd6c7775-5e18-4cb7-b367-4364af5e81c0" width="110"> 
+<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/cd6c7775-5e18-4cb7-b367-4364af5e81c0" width="110"><font size ="5"> 
+      Integrated Engineering Student - Mechanical & Electrical</font>  
 
 ----
 ### UBC Sailbot - Rudder Mechanical Team Member
