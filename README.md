@@ -18,7 +18,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
 #### Structural Stress Calculations
 - I did stress calculations on the bolts that will hold up the worm gear and the whole assembly along with it
 - I analyzed this system in the z-x plane and the z-y plane where the diameter of the bolts (d_cb) we are using is 0.005 meters
-<img src="/assets/zxFBD" width="310"><img src="/assets/zxcalcs.png" width="690">
+<img src="/assets/zxFBD" width="310"><img src="/assets/zxcalcs.png" width="660">
 
 <img src="/assets/zypic" width="280"><img src="/assets/zyFBD" width="390">
 <img src="/assets/torsional" width="290">
