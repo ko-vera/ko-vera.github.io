@@ -25,7 +25,7 @@
 - use of piezoelectrics
 <img src="/assets/numpadbreakdown" width="180">
 <img src="/assets/numpadexploded" width="180">
-<img src="/assets/numpadsim" width="180">
+<img src="/assets/numpadgif" width="180">
 
   
 #### IGEN 230 Line Following Robot
