@@ -1,5 +1,5 @@
 # Integrated Engineering Student - Mechanical & Electrical
-<img src="![8d44f81d-3740-469d-939c-5b2788915803](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/4ef57b81-6a56-4a72-a1d6-9144d291f3bf)" width="60">
+<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/4ef57b81-6a56-4a72-a1d6-9144d291f3bf" width="60">
 ### Mechanical Engineering Experience
 #### Sailbot
 - Solidworks CAD Parts & Assembly
