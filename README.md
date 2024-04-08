@@ -5,7 +5,7 @@
 <font size ="5"> 2nd Year UBC Integrated Engineering Student - Mechanical & Electrical</font>
 
 ----
-### UBC Sailbot - Rudder Mechanical Team Member
+## UBC Sailbot - Rudder Mechanical Team Member
 [UBC Sailbot Website](https://www.ubcsailbot.org/)
 #### Solidworks CAD Parts & Assembly
 <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="180"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="300">
@@ -20,7 +20,7 @@
 <img src="/assets/wormgearcalc" width="500"> <img src="/assets/wormgearcalc2" width="500">
 
 
-### IGEN 230 Capstone
+## IGEN 230 Capstone
 #### Project Description
 Used Piezoelectric discs to harvest and store energy using the tapping motion of keys on a numpad
 #### Solidworks CAD Parts & Assembly
@@ -31,7 +31,7 @@ Designed parts, compiled assemblies, & ran motion studies
 ![Untitled video - Made with Clipchamp](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/953a51cf-c60d-465f-b170-7065d8c8f2f6)
 
   
-### IGEN 230 Line Following Robot - Individual Project
+## IGEN 230 Line Following Robot - Individual Project
 #### Circuitry
 
 ![Untitled video - Made with Clipchamp (3)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/81809f06-70ba-4e8b-8c00-bfcb03b5aecc)
@@ -61,7 +61,7 @@ Designed parts, compiled assemblies, & ran motion studies
 <!--<img src="/assets/code4" width="300"> <img src="/assets/code5" width="300"> <img src="/assets/code6" width="300">-->
 
 
-### CPEN 312 Labs
+## CPEN 312 Labs
 
 #### Lab 1
 Binary input to 7-Segment Display using NAND logic gates
