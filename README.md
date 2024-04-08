@@ -10,8 +10,8 @@
 #### Solidworks CAD Parts & Assembly
 <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="180"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="300">
 
-### Structural Stress Calculations
-
+#### Structural Stress Calculations
+- insert info and pics here
 
 #### Integration with ELEC
 - Decided on motors and encoders that satisfy the needs of both MECH & ELEC
@@ -20,10 +20,23 @@
 <img src="/assets/wormgearcalc" width="500"> <img src="/assets/wormgearcalc2" width="500">
 
 ### CPEN 312 Labs
+
 #### Lab 1
-- logic gates
-- Coding in VHDL 
-- 8051 Assembly
+Binary input to 7-Segment Display using NAND logic gates
+- Use of Multisim
+- Transferring from schematic to board
+  
+#### Lab 2 & 3
+8 Bit Binary Adder/Subtractor & Clock + Alarm Display
+- Implementation of Arithmetic & Counters
+- Coding in VHDL
+- Use of DE0-CV Board
+
+#### Lab 4 & 5
+Varying Number Displays & 32 bit Calculator
+- Implementation of Microcomputer Arithmetic
+- Coding in 8051 Assembly
+- Use of DE0-CV Board
 
   
 ### IGEN 230 Capstone
