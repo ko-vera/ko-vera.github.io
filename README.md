@@ -41,7 +41,7 @@ Implemented H-Bridge Board
 
   <img src="/assets/hbridge.png" width="300">
 - Used PWM to control speed &rarr; when the phototransistor sees white (more light) &rarr; more current
-  - There are two phototransistors on either side of the black line - when it sees white, there is more current & it moves forward, when one of them sees   black, it will turn in the coded direction
+  - There are two phototransistors on either side of the black line - when it sees white, there is more current & it moves forward, when one of them sees   black, it will turn
 
 
 <img src="/assets/borottop" width="200"><img src="/assets/borotside" width="200">
