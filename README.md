@@ -9,7 +9,7 @@
 
 Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
 #### Solidworks CAD Parts & Assembly
-Designed motor, shafts, & timing belt as well as compiled assembly
+- Designed motor, shafts, & timing belt as well as compiled assembly
 
 <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="180"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="300">
 
@@ -28,9 +28,9 @@ Designed motor, shafts, & timing belt as well as compiled assembly
 <h2 style="color:#4682B4;"> IGEN 230 Capstone </h2>
 
 #### Project Description
-Used Piezoelectric discs to harvest and store energy using the tapping motion of keys on a numpad
+- Used Piezoelectric discs to harvest and store energy using the tapping motion of keys on a numpad
 #### Solidworks CAD Parts & Assembly
-Designed all parts, compiled assemblies, & ran motion studies
+- Designed all parts, compiled assemblies, & ran motion studies
 
 <img src="/assets/numpadbreakdown" width="312"> <img src="/assets/numpadexploded" width="297"> ![Untitled video - Made with Clipchamp](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/953a51cf-c60d-465f-b170-7065d8c8f2f6) 
 <br/>
@@ -81,7 +81,7 @@ Binary input to 7-Segment Display using NAND logic gates
 #### Lab 2 & 3
 8 Bit Binary Adder/Subtractor & Clock + Alarm Display
 - Implementation of Arithmetic & Counters
-- Coding in VHDL
+- Coding in VHDL for creation of block diagram components
 - Use of DE0-CV Board
 
 #### Lab 4 & 5
