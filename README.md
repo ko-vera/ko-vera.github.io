@@ -19,26 +19,7 @@
   
 <img src="/assets/wormgearcalc" width="500"> <img src="/assets/wormgearcalc2" width="500">
 
-### CPEN 312 Labs
 
-#### Lab 1
-Binary input to 7-Segment Display using NAND logic gates
-- Use of Multisim
-- Transferring from schematic to board
-  
-#### Lab 2 & 3
-8 Bit Binary Adder/Subtractor & Clock + Alarm Display
-- Implementation of Arithmetic & Counters
-- Coding in VHDL
-- Use of DE0-CV Board
-
-#### Lab 4 & 5
-Varying Number Displays & 32 bit Calculator
-- Implementation of Microcomputer Arithmetic
-- Coding in 8051 Assembly
-- Use of DE0-CV Board
-
-  
 ### IGEN 230 Capstone
 #### Project Description
 Used Piezoelectric discs to harvest and store energy using the tapping motion of keys on a numpad
@@ -80,3 +61,23 @@ Designed parts, compiled assemblies, & ran motion studies
 <!--<img src="/assets/code4" width="300"> <img src="/assets/code5" width="300"> <img src="/assets/code6" width="300">-->
 
 
+### CPEN 312 Labs
+
+#### Lab 1
+Binary input to 7-Segment Display using NAND logic gates
+- Use of Multisim
+- Transferring from schematic to board
+  
+#### Lab 2 & 3
+8 Bit Binary Adder/Subtractor & Clock + Alarm Display
+- Implementation of Arithmetic & Counters
+- Coding in VHDL
+- Use of DE0-CV Board
+
+#### Lab 4 & 5
+Varying Number Displays & 32 bit Calculator
+- Implementation of Microcomputer Arithmetic
+- Coding in 8051 Assembly
+- Use of DE0-CV Board
+
+  
