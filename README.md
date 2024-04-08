@@ -21,6 +21,8 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
 <img src="/assets/zypic" width="280"><img src="/assets/zyFBD" width="390">
 <img src="/assets/torsional" width="290">
 
+<img src="/assets/zycalcs.png" width="290">
+
 #### Integration with ELEC
 - Decided on motors and encoders that satisfy the needs of both MECH & ELEC
 - Here you can see some minimum torque calculations that we did based on the worm gear we chose in order to spec a motor. This allowed us to determine how frequently our motor would be drawing maximum current and whether that is viable with the amount of power that the ELEC team is accounting for
