@@ -38,6 +38,7 @@ Designed all parts, compiled assemblies, & ran motion studies
 <br/>
  
 <h2 style="color:#4682B4;"> IGEN 230 Line Following Robot - Individual Project </h2>
+
 #### Circuitry
 
 ![Untitled video - Made with Clipchamp (3)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/81809f06-70ba-4e8b-8c00-bfcb03b5aecc)
