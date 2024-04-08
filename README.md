@@ -41,7 +41,7 @@ Designed all parts, compiled assemblies, & ran motion studies
 
 #### Circuitry
 
-![Untitled video - Made with Clipchamp (3)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/81809f06-70ba-4e8b-8c00-bfcb03b5aecc) <img src="/assets/borottop" width="220"><img src="/assets/borotside" width="220">
+![Untitled video - Made with Clipchamp (3)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/81809f06-70ba-4e8b-8c00-bfcb03b5aecc) <img src="/assets/borottop" width="222"> <img src="/assets/borotside" width="222">
 
 - Implemented H-Bridge Board 
   - Used H-Bridge to control direction &rarr; run motors forwards and backwards - this works by opening and closing the respective switches shown
