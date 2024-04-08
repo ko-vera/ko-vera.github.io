@@ -39,7 +39,7 @@ Used Piezoelectric discs to harvest and store energy using the tapping motion of
 
 ![Untitled video - Made with Clipchamp (3)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/81809f06-70ba-4e8b-8c00-bfcb03b5aecc)
 
-Implemented H-Bridge Board 
+- Implemented H-Bridge Board 
 
 <img src="/assets/hbridgeboard.png" width="400">
 - Used H-Bridge to control direction &rarr; run motors forwards and backwards - this works by opening and closing the respective switches shown
