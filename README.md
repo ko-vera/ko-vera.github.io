@@ -5,11 +5,11 @@
 <font size ="5"> 2nd Year UBC Integrated Engineering Student - Mechanical & Electrical</font>
 
 ----
-<body style="background-color:powderblue;">
+<font color="#000080">
   
 ## UBC Sailbot - Rudder Mechanical Team Member
   
-</body>
+</font>
 
 [UBC Sailbot Website](https://www.ubcsailbot.org/)
 #### Solidworks CAD Parts & Assembly
