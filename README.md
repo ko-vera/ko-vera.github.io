@@ -21,6 +21,7 @@ Designed motor, shafts, & timing belt as well as compiled assembly
 <img src="/assets/wormgearcalc" width="500"> <img src="/assets/wormgearcalc2" width="500">
 <br/>
 <br/>
+<br/>
 
 ## IGEN 230 Capstone
 #### Project Description
@@ -33,7 +34,8 @@ Designed parts, compiled assemblies, & ran motion studies
 ![Untitled video - Made with Clipchamp](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/953a51cf-c60d-465f-b170-7065d8c8f2f6)
 <br/>
 <br/>
-  
+<br/>
+ 
 ## IGEN 230 Line Following Robot - Individual Project
 #### Circuitry
 
@@ -63,6 +65,7 @@ Designed parts, compiled assemblies, & ran motion studies
 <!--<img src="/assets/code1" width="300"> <img src="/assets/code2" width="300"> <img src="/assets/code3" width="300">-->
 <!--<img src="/assets/code4" width="300"> <img src="/assets/code5" width="300"> <img src="/assets/code6" width="300">-->
 
+<br/>
 <br/>
 <br/>
 
