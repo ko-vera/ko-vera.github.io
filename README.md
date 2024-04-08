@@ -18,7 +18,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
 #### Structural Stress Calculations
 <img src="/assets/zxFBD" width="310">
 
-<img src="/assets/zypic" width="290"><img src="/assets/zyFBD" width="390">
+<img src="/assets/zypic" width="280"><img src="/assets/zyFBD" width="390">
 <img src="/assets/torsional" width="290">
 
 #### Integration with ELEC
