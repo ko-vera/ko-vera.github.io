@@ -5,7 +5,7 @@
 <font size ="5"> 2nd Year UBC Integrated Engineering Student - Mechanical & Electrical</font>
 
 ----
-## UBC Sailbot - Rudder Mechanical Team Member
+<p style="color: #000080">## UBC Sailbot - Rudder Mechanical Team Member</p>
 [UBC Sailbot Website](https://www.ubcsailbot.org/)
 #### Solidworks CAD Parts & Assembly
 Designed motor, shafts, & timing belt as well as compiled assembly
