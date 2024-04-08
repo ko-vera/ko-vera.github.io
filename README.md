@@ -32,8 +32,10 @@ Used Piezoelectric discs to harvest and store energy using the tapping motion of
   
 ### IGEN 230 Line Following Robot - Individual Project
 #### Circuitry
-Implemented H-Bridge Board <img src="/assets/hbridgeboard.png" width="200">
-- Used H-Bridge to control direction &rarr; run motors forwards and backwards - this works by opening and closing the respective switches shown <img src="/assets/hbridge.png" width="300">
+Implemented H-Bridge Board 
+<img src="/assets/hbridgeboard.png" width="200">
+- Used H-Bridge to control direction &rarr; run motors forwards and backwards - this works by opening and closing the respective switches shown
+  <img src="/assets/hbridge.png" width="300">
 - Used PWM to control speed &rarr; when the phototransistor sees white (more light) &rarr; more current
   - There are two phototransistors on either side of the black line - when it sees white, there is more current and it moves forward, when one of them sees   black, it will turn in the coded direction
 ![Untitled video - Made with Clipchamp (3)](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/81809f06-70ba-4e8b-8c00-bfcb03b5aecc)
