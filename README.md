@@ -26,6 +26,7 @@
 <img src="/assets/numpadbreakdown" width="180">
 <img src="/assets/numpadexploded" width="180">
 <img src="/assets/numpadgif?raw=true" width="180">
+![Untitled video - Made with Clipchamp](https://github.com/ko-vera/ko-vera.github.io/assets/91451073/953a51cf-c60d-465f-b170-7065d8c8f2f6)
 
   
 #### IGEN 230 Line Following Robot
