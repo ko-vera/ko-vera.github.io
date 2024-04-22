@@ -16,8 +16,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
 <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/18be7fbe-1d6d-4935-bb8d-18311dc1d2e1" width="180"> <img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/dcda9d7b-4d81-40f5-aba7-b0ffed2962ce" width="300">
 
 #### Structural Stress Calculations
-- I did stress calculations on the bolts that will hold up the worm gear and the whole assembly along with it
-- I analyzed this system in the z-x plane and the z-y plane where the diameter of the bolts (d_cb) we are using is 0.005 meters
+- Completed stress calculations to determine minimum diameter of bolts required to avoid shear and tensile failure
   
 <img src="/assets/zxFBD" width="310"><img src="/assets/zxcalcs.png" width="650">
 
