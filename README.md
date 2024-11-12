@@ -12,6 +12,7 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - Present)
 #### Altium Circuit Schematic
 - Completed the circuit schematic and am currently working on the PCB board layout
+  
 <img src="/assets/Screenshot 2024-11-12 120847.png" width="300">
 
 <h2 style="color:#4682B4;"> UBC Sailbot - Mechanical Team </h2>
