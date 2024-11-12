@@ -2,7 +2,7 @@
 
 <!--<br/>-->
 <!--<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/cd6c7775-5e18-4cb7-b367-4364af5e81c0" width="70">-->
-<font size ="5"> 2nd Year UBC Integrated Engineering Student - Mechanical & Electrical</font>
+<font size ="5"> 3nd Year UBC Integrated Engineering Student - Mechanical & Electrical</font>
 
 ----
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
