@@ -17,6 +17,8 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 
 
 
+
+
 <h2 style="color:#4682B4;"> UBC Sailbot - Mechanical Team </h2>
 
 Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan 2022 - Sept 2024)
