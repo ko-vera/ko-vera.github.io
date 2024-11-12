@@ -13,7 +13,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 #### Altium Circuit Schematic
 - Completed the circuit schematic and am currently working on the PCB board layout
   
-<img src="/assets/Screenshot 2024-11-12 120847.png" width="350">
+<img src="/assets/Screenshot 2024-11-12 120847.png" width="370">
 
 <h2 style="color:#4682B4;"> UBC Sailbot - Mechanical Team </h2>
 
