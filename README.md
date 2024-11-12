@@ -2,14 +2,21 @@
 
 <!--<br/>-->
 <!--<img src="https://github.com/ko-vera/ko-vera.github.io/assets/91451073/cd6c7775-5e18-4cb7-b367-4364af5e81c0" width="70">-->
-<font size ="5"> 3nd Year UBC Integrated Engineering Student - Mechanical & Electrical</font>
+<font size ="5"> 3rd Year UBC Integrated Engineering Student - Mechanical & Electrical</font>
 
 ----
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
+<h2 style="color:#4682B4;"> UBC Thunderbots - Electrical Team </h2>
+
+Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - Present)
+#### Altium Circuit Schematic
+- Completed the circuit schematic and am currently working on the PCB board layout
+
+
 <h2 style="color:#4682B4;"> UBC Sailbot - Mechanical Team </h2>
 
-Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/)
+Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan 2022 - Sept 2024)
 #### Solidworks CAD Parts & Assembly
 - Designed motor, shafts, & timing belt as well as compiled assembly
 
