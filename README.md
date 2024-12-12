@@ -13,12 +13,12 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 #### Altium Circuit Schematic
 - Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout
   
-<img src="/assets/Screenshot 2024-11-12 120847.png" width="410">
+<img src="/assets/Screenshot 2024-11-12 120847.png" width="430">
 
 
 IN PROGRESS:
 
-<img src="/assets/Screenshot 2024-12-11 182127.png" width="410">
+<img src="/assets/Screenshot 2024-12-11 182127.png" width="430">
 
 
 
