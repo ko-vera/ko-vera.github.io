@@ -16,6 +16,9 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 <img src="/assets/Screenshot 2024-11-12 120847.png" width="410">
 
 
+IN PROGRESS:
+<img src="/assets/Screenshot 2024-12-11 182127.png" width="410">
+
 
 
 
