@@ -11,16 +11,17 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 
 Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - Present)
 #### Altium Circuit Schematic
-- Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout
+- Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout for the phototransistor side of the kick speed tester arch shown below
+- Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured
   
 <img src="/assets/Screenshot 2024-11-12 120847.png" width="430">
-
+<img src="/assets/Screenshot 2025-01-11 225837.png" width="430">
 
 IN PROGRESS:
 
 <img src="/assets/Screenshot 2025-01-11 225557.png" width="430">
 <img src="/assets/Screenshot 2025-01-11 225709.png" width="430">
-<img src="/assets/Screenshot 2025-01-11 225837.png" width="430">
+
 
 
 <h2 style="color:#4682B4;"> UBC Sailbot - Mechanical Team </h2>
