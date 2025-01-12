@@ -18,9 +18,9 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 
 IN PROGRESS:
 
-<img src="/assets/Screenshot 2024-12-11 182127.png" width="430">
-
-
+<img src="/assets/Screenshot 2025-01-11 225557.png" width="430">
+<img src="/assets/Screenshot 2025-01-11 225709.png" width="430">
+<img src="/assets/Screenshot 2025-01-11 225837.png" width="430">
 
 
 <h2 style="color:#4682B4;"> UBC Sailbot - Mechanical Team </h2>
