@@ -14,13 +14,11 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout for the phototransistor side of the kick speed tester arch shown below
 - Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured
   
-<img src="/assets/Screenshot 2024-11-12 120847.png" width="430">
-<img src="/assets/Screenshot 2025-01-11 225837.png" width="430">
+<img src="/assets/Screenshot 2024-11-12 120847.png" width="430"> <img src="/assets/Screenshot 2025-01-11 225837.png" width="430">
 
 IN PROGRESS:
 
-<img src="/assets/Screenshot 2025-01-11 225557.png" width="430">
-<img src="/assets/Screenshot 2025-01-11 225709.png" width="430">
+<img src="/assets/Screenshot 2025-01-11 225557.png" width="430"> <img src="/assets/Screenshot 2025-01-11 225709.png" width="430">
 
 
 
