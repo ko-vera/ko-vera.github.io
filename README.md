@@ -41,7 +41,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - CAD designed paint platform, rail attachment and wheel stabilization for paint dispensing
 - CAD designed paint applicator attachment, tested various paint application materials and geometries which provided a clean and consistent line
   
-<img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="450"> <img src="/assets/330 - Iso View (Sensors + Applicator).jpg" width="450">
+<img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="300"> <img src="/assets/330 - Iso View (Sensors + Applicator).jpg" width="300">
 
 
 
