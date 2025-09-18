@@ -23,8 +23,8 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - UI board - Updated ribbon cable pin order to match with Motor Driver board, updated connections to Raspberry Pi, fixed trace connections, integrated with MECH to determine best location for board placement/mounting of UI and Motor Driver boards
 - Soldering various components onto Power, UI, Motor Driver, and IMU boards 
 
-                 UI Board 
-<img src="/assets/UI BOARD LAYOUT.png" height="400">
+
+<img src="/assets/UI BOARD LAYOUT.png" alt="UI Board" height="400">
 <h2 style="color:#4682B4;"> IGEN 330 Capstone </h2>
 #### Project Description
 - Designed a robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
