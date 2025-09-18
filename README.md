@@ -12,11 +12,38 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - Present)
 #### Altium Circuit Schematic
 - Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout for the phototransistor side of the kick speed tester arch shown below
-- Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured
+- Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured.
   
 <img src="/assets/Screenshot 2024-11-12 120847.png" width="450"> <img src="/assets/Screenshot 2025-01-11 225837.png" width="450">
 
 <img src="/assets/Screenshot 2025-01-21 205145.png" width="450"> <img src="/assets/Screenshot 2025-01-21 205001.png" width="450">
+
+<h2 style="color:#4682B4;"> IGEN 330 Capstone </h2>
+#### Project Description
+- Designed a robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
+
+<video width="640" height="360" controls>
+  <source src="/assets/330 - Wall Painting Robot Video.mp4" type="video/mp4">
+
+<img src="/assets/330 - Picture of Painted Line.jpg" width="450">
+
+### Circuitry Design & Software
+- Surface mount and through hole soldering of components
+- Wiring and troubleshooting of electrical components including Raspberry Pi Pico, Arduino Mega, H-bridges, Lithium ion battery, Time-of-Flight (ToF) sensor, and limit switches
+- Integrated motors with H-bridges and conducted extensive robot drive testing
+- Wrote code for driving with omniwheels - troubleshooting motor driving, force distribution of driving against the wall, motor stalling
+- Supported design and implementation of linear actuators and limit switches for vertical and horizontal positioning as well as motor driving for consistent paint dispensing
+
+<img src="/assets/330 - Electrical Components on Chassis.jpg" width="450"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="450">
+  
+#### Mechanical Design
+- CAD designed custom wheel flange couples
+- CAD designed and assembled chassis, wheel, and motor mounting
+- CAD designed and iterated sensor mount to maximize accuracy and consistency of results
+- CAD designed paint platform, rail attachment and wheel stabilization for paint dispensing
+- CAD designed paint applicator attachment, tested various paint application materials and geometries which provided a clean and consistent line
+  
+<img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="450"> <img src="/assets/330 - Iso View (Sensors + Applicator).jpg" width="450">
 
 
 
