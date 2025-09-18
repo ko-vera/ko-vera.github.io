@@ -24,7 +24,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - Soldering various components onto Power, UI, Motor Driver, and IMU boards 
 
 
-<img src="/assets/UI BOARD LAYOUT.png" title="UI Board" height="400">
+<img src="/assets/UI BOARD LAYOUT.png" height="400">
 <h2 style="color:#4682B4;"> IGEN 330 Capstone </h2>
 #### Project Description
 - Designed a robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
