@@ -23,9 +23,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 #### Project Description
 - Designed a robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
 
-<video width="300" height="365" controls>  <source src="/assets/330 - Wall Painting Robot Video.mp4" type="video/mp4"> </video>
-
-<img src="/assets/330 - Picture of Painted Line.jpg" width="450">
+<video width="300" height="400" controls>  <source src="/assets/330 - Wall Painting Robot Video.mp4" type="video/mp4"> </video> <img src="/assets/330 - Picture of Painted Line.jpg" width="450">
 
 ### Circuitry Design & Software
 - Surface mount and through hole soldering of components
