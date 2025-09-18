@@ -10,7 +10,7 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <h2 style="color:#4682B4;"> UBC Thunderbots - Electrical Team </h2>
 
 Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - Present)
-#### Altium Circuit Schematic
+#### Kick Speed Tester - Altium Circuit Schematic & Layout
 - Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout for the phototransistor side of the kick speed tester arch shown below
 - Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured.
   
@@ -18,12 +18,18 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 
 <img src="/assets/Screenshot 2025-01-21 205145.png" width="450"> <img src="/assets/Screenshot 2025-01-21 205001.png" width="450">
 
+#### Various Projects
+- Power Board - Helped with testing and troubleshooting board, updated board layout with new components, fixed trace connections, via stitching
+- UI board - Updated ribbon cable pin order to match with Motor Driver board, updated connections to Raspberry Pi, fixed trace connections, integrated with MECH to determine best location for board placement/mounting of UI and Motor Driver boards
+- Soldering various components onto Power, UI, Motor Driver, and IMU boards 
 
+                 UI Board 
+<img src="/assets/UI BOARD LAYOUT.png" height="400">
 <h2 style="color:#4682B4;"> IGEN 330 Capstone </h2>
 #### Project Description
 - Designed a robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
 
-<img src="/assets/330 - Picture of Painted Line.jpg" height="450"> <video width="300" height="450" controls>  <source src="/assets/330 - Wall Painting Robot Video.mp4" type="video/mp4"> </video>
+<img src="/assets/330 - Picture of Painted Line.jpg" height="400"> <video width="300" height="400" controls>  <source src="/assets/330 - Wall Painting Robot Video.mp4" type="video/mp4"> </video>
 
 ### Circuitry Design & Software
 - Surface mount and through hole soldering of components
@@ -34,7 +40,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 
 <img src="/assets/330 - circuit schematic.png" width="450">
 
-<img src="/assets/330 - Electrical Components on Chassis.jpg" width="350"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="350"> 
+<img src="/assets/330 - Electrical Components on Chassis.jpg" width="300"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="300"> 
   
 #### Mechanical Design
 - CAD designed custom wheel flange couples
