@@ -23,7 +23,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 #### Project Description
 - Designed a robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
 
-<img src="/assets/330 - Picture of Painted Line.jpg" width="450"> <video width="300" height="450" controls>  <source src="/assets/330 - Wall Painting Robot Video.mp4" type="video/mp4"> </video>
+<img src="/assets/330 - Picture of Painted Line.jpg" height="450"> <video width="300" height="450" controls>  <source src="/assets/330 - Wall Painting Robot Video.mp4" type="video/mp4"> </video>
 
 ### Circuitry Design & Software
 - Surface mount and through hole soldering of components
@@ -32,7 +32,9 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - Wrote code for driving with omniwheels - troubleshooting motor driving, force distribution of driving against the wall, motor stalling
 - Supported design and implementation of linear actuators and limit switches for vertical and horizontal positioning as well as motor driving for consistent paint dispensing
 
-<img src="/assets/330 - Electrical Components on Chassis.jpg" width="300"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="300"> <img src="/assets/330 - circuit schematic.png" width="300">
+<img src="/assets/330 - circuit schematic.png" width="450">
+
+<img src="/assets/330 - Electrical Components on Chassis.jpg" width="350"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="350"> 
   
 #### Mechanical Design
 - CAD designed custom wheel flange couples
@@ -41,7 +43,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - CAD designed paint platform, rail attachment and wheel stabilization for paint dispensing
 - CAD designed paint applicator attachment, tested various paint application materials and geometries which provided a clean and consistent line
   
-<img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="300"> <img src="/assets/330 - Iso View (Sensors + Applicator).jpg" width="300">
+<img src="/assets/330 - Iso View (Sensors + Applicator).jpg" width="200"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="300"> 
 
 
 
