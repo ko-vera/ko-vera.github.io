@@ -35,7 +35,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - Surface mount and through hole soldering of components
 - Wiring and troubleshooting of electrical components including Raspberry Pi Pico, Arduino Mega, H-bridges, Lithium ion battery, Time-of-Flight (ToF) sensor, and limit switches
 - Integrated motors with H-bridges and conducted extensive robot drive testing
-- Wrote code for driving with omniwheels - troubleshooting motor driving, force distribution of driving against the wall, motor stalling
+- Wrote code for driving with omni wheels - troubleshooting motor driving, force distribution of driving against the wall, motor stalling
 - Supported design and implementation of linear actuators and limit switches for vertical and horizontal positioning as well as motor driving for consistent paint dispensing
 
 <img src="/assets/330 - circuit schematic.png" width="450">
@@ -43,10 +43,10 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 <img src="/assets/330 - Electrical Components on Chassis.jpg" width="300"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="300"> 
   
 #### Mechanical Design
-- CAD designed chassis, wheel and motor mounting, as well as custom wheel flange couples for omniwheel drive
-- CAD designed and iterated sensor mount to maximize accuracy and consistency of results
-- CAD designed paint platform, rail attachment and wheel stabilization for paint dispensing
-- CAD designed paint applicator attachment, tested various paint application materials and geometries which provided clean and consistent lines
+- Designed chassis, wheel and motor mounting, as well as custom wheel flange couples for omni wheel drive using CAD
+- Created and iterated sensor mount geometry using CAD to maximize accuracy and consistency of results
+- Developed CAD models for the paint dispensing system, including paint platform, rail attachment, and wheel stabilizer
+- CAD designed paint applicator attachment and tested various application materials and geometries to achieve clean, consistent lines.
   
 <img src="/assets/330 - Iso View (Sensors + Applicator).jpg" width="200"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="300"> 
 
