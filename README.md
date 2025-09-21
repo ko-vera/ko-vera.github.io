@@ -43,8 +43,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 <img src="/assets/330 - Electrical Components on Chassis.jpg" width="300"> <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="300"> 
   
 #### Mechanical Design
-- CAD designed custom wheel flange couples
-- CAD designed and assembled chassis, wheel, and motor mounting
+- CAD designed chassis, wheel and motor mounting, as well as custom wheel flange couples for omniwheel drive
 - CAD designed and iterated sensor mount to maximize accuracy and consistency of results
 - CAD designed paint platform, rail attachment and wheel stabilization for paint dispensing
 - CAD designed paint applicator attachment, tested various paint application materials and geometries which provided a clean and consistent line
