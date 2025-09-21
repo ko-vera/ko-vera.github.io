@@ -27,7 +27,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 
 <h2 style="color:#4682B4;"> IGEN 330 Capstone </h2>
 #### Project Description
-- Designed a robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
+- Designed an autonomous robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
 
 <img src="/assets/330 - Picture of Painted Line.jpg" height="400"> <video width="300" height="400" controls>  <source src="/assets/330 - Wall Painting Robot Video.mp4" type="video/mp4"> </video>
 
