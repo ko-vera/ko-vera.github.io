@@ -4,6 +4,11 @@
 <!--<img src="/assets/HEADSHOT.jpg" width="70">-->
 <font size ="5"> 4th Year UBC Integrated Engineering Student - Electrical & Mechanical</font>
 
+<div style="text-align: center; background-color: #f4f4f4; padding: 20px 0; border-bottom: 2px solid #eaeaea; margin-bottom: 20px;">
+  <img src="assets/HEADSHOT.jpg" 
+       alt="Headshot" 
+       style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 4px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+</div>
 ----
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
