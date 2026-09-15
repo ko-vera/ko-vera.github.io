@@ -3,10 +3,10 @@
   <img src="assets/HEADSHOT.jpg" 
        alt="Headshot" 
        style="width: 70px; height: 70px; border-radius: 50%; object-fit: cover;">
-  <font size="5"><b>Vera Ko - 4th Year UBC Integrated Engineering Student - Electrical & Mechanical</b></font>
+  <font size="5"><b>Vera Ko - 4th Year UBC Integrated Engineering Student</b></font>
 </div>
 ----
-Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
+Hi! I am an Integrated Engineering student specializing in Electrical & Mechanical Engineering. Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
 <h2 style="color:#4682B4;"> Sarcomere Dynamics - Electrical Team </h2>
 
