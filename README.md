@@ -1,9 +1,4 @@
 
-
-<!--<br/>-->
-<!--<img src="/assets/HEADSHOT.jpg" width="70">-->
-<font size ="5"> 4th Year UBC Integrated Engineering Student - Electrical & Mechanical</font>
-
 <div style="display: flex; align-items: center; gap: 15px;">
   <img src="assets/HEADSHOT.jpg" 
        alt="Headshot" 
