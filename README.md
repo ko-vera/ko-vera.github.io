@@ -13,6 +13,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 #### RoboCup 2026 Competition - Incheon, South Korea
 - Selected as 1 of 3 members to compete in the SSL division at RoboCup 2026
 - Conducted extensive high-voltage testing (240V capacitors, flyback converter) for the robot's kicking mechanism; diagnosing and resolving PCBA and chip failures via PCB and firmware modifications - restoring 6 power boards to be competition-ready.
+- Supported with making design-phase modifications and on-site, on the fly adjustments across UI, IMU, motor driver, and power boards to ensure competition readiness.
 
 <img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="450"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="450">
 <img src="/assets/TBOTS - RoboCup Field.jpg" width="450"> <img src="/assets/TBOTS - ROBOT.jpg" width="450">
