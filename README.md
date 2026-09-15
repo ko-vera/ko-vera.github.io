@@ -66,7 +66,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 
 <h2 style="color:#4682B4;"> Tycrop Manufacturing - Mechanical Team </h2>
 
-Mechanical Design Engineering Co-op at [Tycrop Manufacturing](https://tycrop.com/) (May 2025 - Dec 2025)
+Mechanical Design Engineering Co-op at [Tycrop](https://tycrop.com/) (May 2025 - Dec 2025)
 
 
 <h2 style="color:#4682B4;"> UBC Sailbot - Mechanical Team </h2>
