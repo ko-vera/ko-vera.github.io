@@ -9,7 +9,12 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 
 <h2 style="color:#4682B4;"> UBC Thunderbots - Electrical Team </h2>
 
-Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - Present)
+Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - July 2026)
+#### RoboCup 2026 Competition - Incheon, South Korea
+- Selected as 1 of 3 members to compete in the SSL division at RoboCup 2026
+- Conducted extensive high-voltage testing (240V capacitors, flyback converter) for the robot's kicking mechanism; diagnosing and resolving PCBA and chip failures via PCB and firmware modifications - restoring 6 power boards to be competition-ready.
+
+
 #### Kick Speed Tester - Altium Circuit Schematic & Layout
 - Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout for the phototransistor side of the kick speed tester arch shown below
 - Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured.
