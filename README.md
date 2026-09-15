@@ -14,6 +14,10 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - Selected as 1 of 3 members to compete in the SSL division at RoboCup 2026
 - Conducted extensive high-voltage testing (240V capacitors, flyback converter) for the robot's kicking mechanism; diagnosing and resolving PCBA and chip failures via PCB and firmware modifications - restoring 6 power boards to be competition-ready.
 
+<img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="450"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="450">
+<img src="/assets/TBOTS - RoboCup Field.jpg" width="450"> <img src="/assets/TBOTS - RoboCup Venue.jpg" width="450">
+<img src="/assets/TBOTS - ROBOT.jpg" width="450">
+
 
 #### Kick Speed Tester - Altium Circuit Schematic & Layout
 - Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout for the phototransistor side of the kick speed tester arch shown below
