@@ -143,23 +143,5 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 <br/>
 <br/>
 
-<h2 style="color:#4682B4;"> CPEN 312 Labs </h2>
-
-#### Lab 1
-Binary input to 7-Segment Display using NAND logic gates
-- Use of Multisim
-- Transferring from schematic to board
-  
-#### Lab 2 & 3
-8 Bit Binary Adder/Subtractor & Clock + Alarm Display
-- Implementation of Arithmetic & Counters
-- Coding in VHDL for creation of block diagram components
-- Use of DE0-CV Board
-
-#### Lab 4 & 5
-Varying Number Displays & 32 bit Calculator
-- Implementation of Microcomputer Arithmetic
-- Coding in 8051 Assembly
-- Use of DE0-CV Board
 
   
