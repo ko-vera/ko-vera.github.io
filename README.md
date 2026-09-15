@@ -3,7 +3,7 @@
   <img src="assets/HEADSHOT.jpg" 
        alt="Headshot" 
        style="width: 70px; height: 70px; border-radius: 50%; object-fit: cover;">
-  <font size="5"><b>4th Year UBC Integrated Engineering Student - Electrical & Mechanical Engineering</b></font>
+  <font size="5"><b>4th Year UBC Integrated Engineering Student - Electrical & Mechanical</b></font>
 </div>
 ----
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
