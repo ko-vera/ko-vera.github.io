@@ -15,8 +15,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 - Conducted extensive high-voltage testing (240V capacitors, flyback converter) for the robot's kicking mechanism; diagnosing and resolving PCBA and chip failures via PCB and firmware modifications - restoring 6 power boards to be competition-ready.
 
 <img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="450"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="450">
-<img src="/assets/TBOTS - RoboCup Field.jpg" width="450"> <img src="/assets/TBOTS - RoboCup Venue.jpg" width="450">
-<img src="/assets/TBOTS - ROBOT.jpg" width="450">
+<img src="/assets/TBOTS - RoboCup Field.jpg" width="450"> <img src="/assets/TBOTS - ROBOT.jpg" width="450">
 
 
 #### Kick Speed Tester - Altium Circuit Schematic & Layout
