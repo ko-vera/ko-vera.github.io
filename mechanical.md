@@ -84,18 +84,20 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 
 - Completed stress calculations to determine minimum diameter of bolts required to avoid shear and tensile failure
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/zxFBD)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/zxFBD)[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/zxcalcs.png)](/ko-vera/ko-vera.github.io/blob/main/assets/zxcalcs.png)
+<img src="/assets/zxFBD" width="350"> <img src="/assets/zxcalcs.png" width="350">
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/zypic)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/zypic)[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/zyFBD)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/zyFBD) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/torsional)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/torsional)
+<img src="/assets/zypic" width="350"> <img src="/assets/zyFBD" width="350"> <img src="/assets/torsional" width="350">
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/zycalcs.png)](/ko-vera/ko-vera.github.io/blob/main/assets/zycalcs.png)[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/zycalcs2.png)](/ko-vera/ko-vera.github.io/blob/main/assets/zycalcs2.png)[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/zycalcs3.png)](/ko-vera/ko-vera.github.io/blob/main/assets/zycalcs3.png)
+<img src="/assets/zycalcs.png" width="350"> <img src="/assets/zycalcs2.png" width="350"> <img src="/assets/zycalcs3.png" width="350">
+
 
 #### Integration with ELEC
 
 - Decided on motors and encoders that satisfy the needs of both MECH & ELEC
 - Here you can see some minimum torque calculations that we did based on the worm gear we chose in order to spec a motor. This allowed us to determine how frequently our motor would be drawing maximum current and whether that is viable with the amount of power that the ELEC team is accounting for
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/wormgearcalc)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/wormgearcalc) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/wormgearcalc2)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/wormgearcalc2)
+<img src="/assets/wormgearcalc" width="350"> <img src="/assets/wormgearcalc2" width="350">
+
 
 ## Wall Painting Robot
 
@@ -105,7 +107,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 
 - Designed an autonomous robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Picture of Painted Line.jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Picture of Painted Line.jpg>)
+<img src="/assets/330 - Picture of Painted Line.jpg" width="350">
 
 #### Mechanical Design
 
@@ -114,7 +116,9 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 - Developed CAD models for the paint dispensing system, including paint platform, rail attachment, and wheel stabilizer
 - CAD designed paint applicator attachment and tested various application materials and geometries to achieve clean, consistent lines.
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Iso View (Sensors + Applicator).jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Iso View (Sensors + Applicator).jpg>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg>)
+<img src="/assets/330 - Iso View (Sensors + Applicator).jpg" width="350">
+<img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="350">
+
 
 ## Energy Harvesting Keyboard
 
@@ -125,10 +129,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 #### Solidworks CAD Parts & Assembly
 
 - Designed all parts, compiled assemblies, & ran motion studies
-<img src="/assets/Untitled video - Made with Clipchamp (3).gif" width="350">
-<video src="/assets/330 - Wall Painting Robot Video.mp4" width="300" controls></video>
-
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/numpadbreakdown)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/numpadbreakdown) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/numpadexploded)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/numpadexploded) [![Untitled video - Made with Clipchamp](https://private-user-images.githubusercontent.com/91451073/320353921-953a51cf-c60d-465f-b170-7065d8c8f2f6.gif)](https://private-user-images.githubusercontent.com/91451073/320353921-953a51cf-c60d-465f-b170-7065d8c8f2f6.gif)
+<video src="/assets/330 - Wall Painting Robot Video.mp4" width="280" controls></video>
 
 ----
 
