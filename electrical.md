@@ -77,7 +77,8 @@ Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.c
 - Built a state machine to manage SD card read/write operations for storing actuator calibration data (end stops & range of motion) as well as last known grasp position, enabling the hand to restore to a known state after power loss.
 - Developed functionality for firmware to be pushed through the user API, removing the need to physically connect individual actuator boards for field updates.
 - Performed system-level debugging and integration between legacy and refactored architectures, ensuring compatibility and reliable operation.
-<img src="/assets/hand-display-11.png" width="350">
+
+<img src="/assets/SARC - ARTUSLITE.png" width="300">
 
 #### Testing - Artus Dex - New Product Bring Up & Driving Control
 - The Artus Dex is an upcoming product which highlights motorized driving for the opening of the fingers.
@@ -87,7 +88,7 @@ Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.c
 
 
 ## UBC Thunderbots
-Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Design Team(Sept 2024 - July 2026)
+Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Design Team (Sept 2024 - July 2026)
 
 #### RoboCup 2026 Competition - Incheon, South Korea
 
@@ -95,17 +96,18 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 - Conducted extensive high-voltage testing (240V capacitors, flyback converter) for the robot's kicking mechanism; diagnosing and resolving PCBA and chip failures via PCB and firmware modifications - restoring 6 power boards to be competition-ready.
 - Supported with making design-phase modifications and on-site, on the fly adjustments across UI, IMU, motor driver, and power boards to ensure competition readiness.
 
-<img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="450"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="450">
-<img src="/assets/TBOTS - RoboCup Field.jpg" width="450"> <img src="/assets/TBOTS - ROBOT.jpg" width="337">
+<img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="350"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="350">
+<img src="/assets/TBOTS - RoboCup Field.jpg" width="350"> <img src="/assets/TBOTS - ROBOT.jpg" width="237">
 
 #### Kick Speed Tester - Altium Circuit Schematic & Layout
 
 - Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout for the phototransistor side of the kick speed tester arch shown below
 - Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured.
-<img src="/assets/kickspeed_circuit_schem.png" width="450">
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/Screenshot 2024-11-12 120847.png)](</ko-vera/ko-vera.github.io/blob/main/assets/Screenshot 2024-11-12 120847.png>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/Screenshot 2025-01-11 225837.png)](</ko-vera/ko-vera.github.io/blob/main/assets/Screenshot 2025-01-11 225837.png>)
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/Screenshot 2025-01-21 205145.png)](</ko-vera/ko-vera.github.io/blob/main/assets/Screenshot 2025-01-21 205145.png>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/Screenshot 2025-01-21 205001.png)](</ko-vera/ko-vera.github.io/blob/main/assets/Screenshot 2025-01-21 205001.png>)
+
+<img src="/assets/kickspeed_circuit_schem.png" width="250"><img src="/assets/kickspeed_arch_cad.png" width="350">
+
+<img src="/assets/kickspeed_pcb_2D.png" width="350"> <img src="/assets/kickspeed_pcb_3D.png" width="350">
 
 #### Various Projects
 
@@ -113,6 +115,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 - UI board - Updated ribbon cable pin order to match with Motor Driver board, updated connections to Raspberry Pi, fixed trace connections, integrated with MECH to determine best location for board placement/mounting of UI and Motor Driver boards
 - Soldering various components onto Power, UI, Motor Driver, and IMU boards
 
+<img src="/assets/UI BOARD LAYOUT.png" width="350"> <img src="/assets/UI BOARD 3D VIEW.png" width="350">
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/UI BOARD LAYOUT.png)](</ko-vera/ko-vera.github.io/blob/main/assets/UI BOARD LAYOUT.png>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/UI BOARD 3D VIEW.png)](</ko-vera/ko-vera.github.io/blob/main/assets/UI BOARD 3D VIEW.png>)
 
 ## Wall Painting Robot
@@ -137,25 +140,6 @@ IGEN 330 Capstone - Circuitry Design & Software
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - circuit schematic.png)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - circuit schematic.png>)
 
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Electrical Components on Chassis.jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Electrical Components on Chassis.jpg>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg>)
-
-## IGEN 230 Line Following Robot - Individual Project
-
-[![Untitled video - Made with Clipchamp (3)](https://private-user-images.githubusercontent.com/91451073/320383262-81809f06-70ba-4e8b-8c00-bfcb03b5aecc.gif)](https://private-user-images.githubusercontent.com/91451073/320383262-81809f06-70ba-4e8b-8c00-bfcb03b5aecc.gif) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/borottop)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/borottop) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/borotside)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/borotside)
-
-#### Circuitry
-
-- Implemented H-Bridge Board
-  * Used H-Bridge to control direction → run motors forwards and backwards - this works by opening and closing the respective switches shown
-  * Used PWM to control speed → when the phototransistor sees white (more light) → more current
-  * There are two phototransistors on either side of the black line - when it sees white, there is more current & it moves forward, when one of them sees black, it will turn
-
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/hbridgeboard.png)](/ko-vera/ko-vera.github.io/blob/main/assets/hbridgeboard.png) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/hbridge.png)](/ko-vera/ko-vera.github.io/blob/main/assets/hbridge.png)
-
-#### Coding Process
-
-[Arduino Code](/assets/Line Following Robot Code.txt)
-
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/flowchart)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/flowchart)
 
 ----
 
