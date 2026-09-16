@@ -64,7 +64,7 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <div class="discipline-column">
 <span class="column-title">⚡ Electrical</span>
 
-<a class="project-tile" href="/sarcomere">
+<a class="project-tile" href="/electrical/#sarcomere-dynamics">
 <span class="tile-title">Sarcomere Dynamics</span>
 <span class="tile-desc">PCB Design, Firmware & Software, Testing</span>
 </a>
