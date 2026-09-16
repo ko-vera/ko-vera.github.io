@@ -18,7 +18,7 @@ permalink: /electrical/
   top: 20px;
   padding: 16px;
   border: 2px solid #2B547E;
-  border-radius: 10px;
+  border-radius: 5px;
   background: #f5f9ff;
 }
 .toc-sidebar p {
