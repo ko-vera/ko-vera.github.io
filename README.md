@@ -34,6 +34,69 @@ Browse my work by discipline:
   transform: translateY(-3px);
   box-shadow: 0 6px 14px rgba(0,0,0,0.15);
 }
+.portfolio-links .card-title {
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+}
+.portfolio-links p {
+  margin: 0;
+  color: #333;
+}
+</style>
+
+<div class="portfolio-links">
+
+<a href="/electrical/">
+<span class="card-title">⚡ Electrical Work</span>
+<p>Circuit design, PCB layout, firmware, wiring, and testing — Sarcomere Dynamics, UBC Thunderbots, and capstone electronics.</p>
+</a>
+
+<a href="/mechanical/">
+<span class="card-title">⚙️ Mechanical Work</span>
+<p>CAD, structural design, and mechanical integration — Tycrop Manufacturing, UBC Sailbot, and capstone mechanical design.</p>
+</a>
+
+</div>
+
+----
+
+### Quick links to teams & employers
+
+**Electrical**
+- [Sarcomere Dynamics](https://sarcomeredynamics.com/home) — Electrical Engineering Co-op (Jan 2026 - Aug 2026)
+- [UBC Thunderbots](https://www.ubcthunderbots.ca/) — Electrical Team Member (Sept 2024 - July 2026)
+
+**Mechanical**
+- [Tycrop](https://tycrop.com/) — Mechanical Design Engineering Co-op (May 2025 - Dec 2025)
+- [UBC Sailbot](https://www.ubcsailbot.org/) — Rudder Mechanical Team Member (Jan 2022 - Sept 2024)
+
+
+
+<style>
+.portfolio-links {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+.portfolio-links a {
+  flex: 1;
+  min-width: 220px;
+  display: block;
+  padding: 24px;
+  border: 2px solid #2B547E;
+  border-radius: 12px;
+  text-decoration: none;
+  color: #2B547E;
+  background: #f5f9ff;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.portfolio-links a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
 .portfolio-links h2 {
   margin: 0 0 8px 0;
 }
