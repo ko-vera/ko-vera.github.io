@@ -56,7 +56,7 @@ permalink: /electrical/
 On this page:
 - [Sarcomere Dynamics](#sarcomere-dynamics)
 - [UBC Thunderbots](#ubc-thunderbots)
-- [IGEN 330 Capstone](#wall-painting-robot)
+- [Wall Painting Robot](#wall-painting-robot)
 
 </nav>
 
@@ -80,8 +80,7 @@ Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.c
 <img src="/assets/hand-display-11.png" width="350">
 
 ## UBC Thunderbots
-
-Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - July 2026)
+Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Design Team(Sept 2024 - July 2026)
 
 #### RoboCup 2026 Competition - Incheon, South Korea
 
@@ -111,6 +110,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 
 ## Wall Painting Robot
 IGEN 330 Capstone - Circuitry Design & Software
+
 *(See the [Mechanical Design](/mechanical/#igen-330-capstone---mechanical-design) side of this project on the Mechanical page.)*
 
 #### Project Description
