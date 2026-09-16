@@ -58,6 +58,7 @@ On this page:
 - [UBC Thunderbots](#ubc-thunderbots)
 - [Wall Painting Robot](#wall-painting-robot)
 
+[← Back to Home](/) · [Mechanical Work →](/mechanical/)
 </nav>
 
 <div class="toc-content" markdown="1">
