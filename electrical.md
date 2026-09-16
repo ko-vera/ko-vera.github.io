@@ -18,7 +18,8 @@ permalink: /electrical/
 - Performed system-level debugging and integration between legacy and refactored architectures, ensuring compatibility and reliable operation.
 - Tested and tuned control for robotic fingers and wrist through PID tuning and Python scripting; board bring up; diagnosed firmware, software, and hardware issues using data trend analysis, mechanical failure mode analysis, and oscilloscope inspection of CANBUS signals.
 - Implemented impedance control so the wrist and fingers yield to external interference and return to position – critical for safe human-robot interaction.
-
+  
+<img src="/assets/hand-display-11.png" width="450">
 
 ## UBC Thunderbots - Electrical Team
 
