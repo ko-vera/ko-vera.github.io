@@ -7,7 +7,7 @@ permalink: /electrical/
 
 # ⚡ Electrical Work
 
-## Sarcomere Dynamics(https://sarcomeredynamics.com/home) - Electrical Team
+## [Sarcomere Dynamics](https://sarcomeredynamics.com/home) - Electrical Team
 
 Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.com/home) (Jan 2026 - Aug 2026)
 
