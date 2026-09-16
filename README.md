@@ -8,13 +8,6 @@
 ----
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
-
-[![Headshot](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/HEADSHOT.jpg)](/ko-vera/ko-vera.github.io/blob/main/assets/HEADSHOT.jpg) **4th Year UBC Integrated Engineering Student - Electrical & Mechanical**
-
-----
-
-Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :)
-
 Browse my work by discipline:
 
 <style>
