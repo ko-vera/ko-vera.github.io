@@ -8,6 +8,32 @@
 ----
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
+Browse my work by discipline:
+
+## [⚡ Electrical Work](/electrical/)
+Circuit design, PCB layout, firmware, wiring, and testing — Sarcomere Dynamics, UBC Thunderbots, and capstone electronics.
+
+## [⚙️ Mechanical Work](/mechanical/)
+CAD, structural design, and mechanical integration — Tycrop Manufacturing, UBC Sailbot, and capstone mechanical design.
+
+----
+
+### Quick links to teams & employers
+
+**Electrical**
+- [Sarcomere Dynamics](https://sarcomeredynamics.com/home) — Electrical Engineering Co-op (Jan 2026 - Aug 2026)
+- [UBC Thunderbots](https://www.ubcthunderbots.ca/) — Electrical Team Member (Sept 2024 - July 2026)
+
+**Mechanical**
+- [Tycrop](https://tycrop.com/) — Mechanical Design Engineering Co-op (May 2025 - Dec 2025)
+- [UBC Sailbot](https://www.ubcsailbot.org/) — Rudder Mechanical Team Member (Jan 2022 - Sept 2024)
+
+
+
+
+
+
+
 <h2 style="color:#4682B4;"> Sarcomere Dynamics - Electrical Team </h2>
 
 Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.com/home) (Jan 2026 - Aug 2026)
