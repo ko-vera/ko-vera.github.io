@@ -6,15 +6,56 @@
   <font size="5"><b>4th Year UBC Integrated Engineering Student - Electrical & Mechanical</b></font>
 </div>
 ----
+CURRENTLY BEING EDITED
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
 Browse my work by discipline:
 
-## [⚡ Electrical Work](/electrical/)
-Circuit design, PCB layout, firmware, wiring, and testing — Sarcomere Dynamics, UBC Thunderbots, and capstone electronics.
+<style>
+.portfolio-links {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+.portfolio-links a {
+  flex: 1;
+  min-width: 220px;
+  display: block;
+  padding: 24px;
+  border: 2px solid #2B547E;
+  border-radius: 12px;
+  text-decoration: none;
+  color: #2B547E;
+  background: #f5f9ff;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.portfolio-links a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
+.portfolio-links h2 {
+  margin: 0 0 8px 0;
+}
+.portfolio-links p {
+  margin: 0;
+  color: #333;
+}
+</style>
 
-## [⚙️ Mechanical Work](/mechanical/)
-CAD, structural design, and mechanical integration — Tycrop Manufacturing, UBC Sailbot, and capstone mechanical design.
+<div class="portfolio-links">
+
+<a href="/electrical/">
+<h2>⚡ Electrical Work</h2>
+<p>Circuit design, PCB layout, firmware, wiring, and testing — Sarcomere Dynamics, UBC Thunderbots, and capstone electronics.</p>
+</a>
+
+<a href="/mechanical/">
+<h2>⚙️ Mechanical Work</h2>
+<p>CAD, structural design, and mechanical integration — Tycrop Manufacturing, UBC Sailbot, and capstone mechanical design.</p>
+</a>
+
+</div>
 
 ----
 
