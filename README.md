@@ -8,8 +8,6 @@
 ----
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
-Browse my work by discipline:
-
 <style>
 .discipline-columns {
   display: flex;
@@ -66,7 +64,7 @@ Browse my work by discipline:
 <div class="discipline-column">
 <span class="column-title">⚡ Electrical</span>
 
-<a class="project-tile" href="/electrical/#sarcomere-dynamics---electrical-team">
+<a class="project-tile" href="/sarcomere">
 <span class="tile-title">Sarcomere Dynamics</span>
 <span class="tile-desc">Electrical Engineering Co-op (Jan 2026 - Aug 2026)</span>
 </a>
