@@ -6,7 +6,6 @@
   <font size="5"><b>4th Year UBC Integrated Engineering Student - Electrical & Mechanical</b></font>
 </div>
 ----
-CURRENTLY BEING EDITED
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
 Browse my work by discipline:
