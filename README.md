@@ -124,9 +124,9 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 
 <h2>About Me</h2>
 
-I am an Integrated Engineering (IGEN) Student who is fascinated by robotics and excited by any problem solving opportunity. I strive to make a significant positive impact on others in everything I do.
+<p>I am an Integrated Engineering (IGEN) Student who is fascinated by robotics and excited by any problem solving opportunity. I strive to make a significant positive impact on others in everything I do.</p>
 
-Apart from Engineering, I enjoy the performance arts - specifically playing the oboe, and I sometimes dabble in the visual arts - including drawing and painting. If you're curious of these hobbies, feel free to click the links below for some visuals!
+<p>Apart from Engineering, I enjoy the performance arts - specifically playing the oboe, and I sometimes dabble in the visual arts - including drawing and painting. If you're curious of these hobbies, feel free to click the links below for some visuals!</p>
 
 </div>
 

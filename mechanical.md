@@ -54,10 +54,10 @@ permalink: /mechanical/
 <nav class="toc-sidebar" markdown="1">
 
 On this page:
-- [Tycrop Manufacturing](#tycrop-manufacturing---mechanical-team)
-- [UBC Sailbot](#ubc-sailbot---mechanical-team)
-- [IGEN 330 Capstone](#igen-330-capstone---mechanical-design)
-- [IGEN 230 Capstone](#igen-230-capstone)
+- [Tycrop Manufacturing](#tycrop-manufacturing)
+- [UBC Sailbot](#ubc-sailbot)
+- [Wall Painting Robot](#wall-painting-robot)
+- [Energy Harvesting Keyboard](#energy-harvesting-keyboard)
 
 </nav>
 
@@ -65,11 +65,11 @@ On this page:
   
 # ⚙️ Mechanical Work
 
-## Tycrop Manufacturing - Mechanical Team
+## Tycrop Manufacturing
 
 Mechanical Design Engineering Co-op at [Tycrop](https://tycrop.com/) (May 2025 - Dec 2025)
 
-## UBC Sailbot - Mechanical Team
+## UBC Sailbot
 
 Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan 2022 - Sept 2024)
 
@@ -96,7 +96,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/wormgearcalc)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/wormgearcalc) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/wormgearcalc2)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/wormgearcalc2)
 
-## IGEN 330 Capstone - Mechanical Design
+## Wall Painting Robot
 
 *(See the [Circuitry Design & Software](/electrical/#igen-330-capstone---circuitry-design--software) side of this project on the Electrical page.)*
 
@@ -115,7 +115,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Iso View (Sensors + Applicator).jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Iso View (Sensors + Applicator).jpg>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg>)
 
-## IGEN 230 Capstone
+## Energy Harvesting Keyboard
 
 #### Project Description
 
