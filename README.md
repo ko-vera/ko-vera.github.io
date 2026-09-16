@@ -69,7 +69,7 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <span class="tile-desc">PCB Design, Firmware & Software, Testing</span>
 </a>
 
-<a class="project-tile" href="/electrical/#ubc-thunderbots---electrical-team">
+<a class="project-tile" href="/electrical/#ubc-thunderbots">
 <span class="tile-title">UBC Thunderbots</span>
 <span class="tile-desc">PCB Design & Testing</span>
 </a>
