@@ -96,8 +96,8 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 - Conducted extensive high-voltage testing (240V capacitors, flyback converter) for the robot's kicking mechanism; diagnosing and resolving PCBA and chip failures via PCB and firmware modifications - restoring 6 power boards to be competition-ready.
 - Supported with making design-phase modifications and on-site, on the fly adjustments across UI, IMU, motor driver, and power boards to ensure competition readiness.
 
-<img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="350"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="350">
-<img src="/assets/TBOTS - RoboCup Field.jpg" width="350"> <img src="/assets/TBOTS - ROBOT.jpg" width="237">
+<img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="355"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="355">
+<img src="/assets/TBOTS - RoboCup Field.jpg" width="355"> <img src="/assets/TBOTS - ROBOT.jpg" width="247">
 
 #### Kick Speed Tester - Altium Circuit Schematic & Layout
 
@@ -116,7 +116,6 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 - Soldering various components onto Power, UI, Motor Driver, and IMU boards
 
 <img src="/assets/UI BOARD LAYOUT.png" width="350"> <img src="/assets/UI BOARD 3D VIEW.png" width="350">
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/UI BOARD LAYOUT.png)](</ko-vera/ko-vera.github.io/blob/main/assets/UI BOARD LAYOUT.png>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/UI BOARD 3D VIEW.png)](</ko-vera/ko-vera.github.io/blob/main/assets/UI BOARD 3D VIEW.png>)
 
 ## Wall Painting Robot
 IGEN 330 Capstone - Circuitry Design & Software
@@ -127,7 +126,7 @@ IGEN 330 Capstone - Circuitry Design & Software
 
 - Designed an autonomous robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Picture of Painted Line.jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Picture of Painted Line.jpg>)
+<img src="/assets/330 - Picture of Painted Line.jpg" width="350">
 
 #### Circuitry Design & Software
 
@@ -137,9 +136,10 @@ IGEN 330 Capstone - Circuitry Design & Software
 - Wrote code for driving with omni wheels - troubleshooting motor driving, force distribution of driving against the wall, motor stalling
 - Supported design and implementation of linear actuators and limit switches for vertical and horizontal positioning as well as motor driving for consistent paint dispensing
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - circuit schematic.png)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - circuit schematic.png>)
+<img src="/assets/330 - circuit schematic.png" width="350"><img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="350">
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Electrical Components on Chassis.jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Electrical Components on Chassis.jpg>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg>)
+
+[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - circuit schematic.png)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - circuit schematic.png>)
 
 ----
 
