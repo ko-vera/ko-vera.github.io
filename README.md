@@ -30,7 +30,7 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
   padding: 16px 18px;
   margin-bottom: 12px;
   border: 2px solid #2B547E;
-  border-radius: 10px;
+  border-radius: 7px;
   text-decoration: none;
   color: #2B547E;
   background: #f5f9ff;
@@ -132,6 +132,15 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 
 
 
+
+
+
+
+
+
+
+
+
 ### Electrical
 
 <style>
@@ -147,7 +156,7 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
   display: block;
   padding: 24px;
   border: 2px solid #2B547E;
-  border-radius: 12px;
+  border-radius: 7px;
   text-decoration: none;
   color: #2B547E;
   background: #f5f9ff;
