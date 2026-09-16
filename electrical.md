@@ -79,7 +79,7 @@ Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.c
 - Developed functionality for firmware to be pushed through the user API, removing the need to physically connect individual actuator boards for field updates.
 - Performed system-level debugging and integration between legacy and refactored architectures, ensuring compatibility and reliable operation.
 
-<img src="./assets/SARC - ARTUSLITE.png" width="300">
+<img src="/assets/SARC - ARTUSLITE.png" width="300">
 
 #### Testing - Artus Dex - New Product Bring Up & Driving Control
 - The Artus Dex is an upcoming product which highlights motorized driving for the opening of the fingers.
@@ -97,8 +97,8 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 - Conducted extensive high-voltage testing (240V capacitors, flyback converter) for the robot's kicking mechanism; diagnosing and resolving PCBA and chip failures via PCB and firmware modifications - restoring 6 power boards to be competition-ready.
 - Supported with making design-phase modifications and on-site, on the fly adjustments across UI, IMU, motor driver, and power boards to ensure competition readiness.
 
-<img src="./assets/TBOTS - DEBUGGING PT2.jpg" width="355"> <img src="./assets/TBOTS - DEBUGGING.jpg" width="355">
-<img src="./assets/TBOTS - RoboCup Field.jpg" width="355"> <img src="./assets/TBOTS - ROBOT.jpg" width="266">
+<img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="355"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="355">
+<img src="/assets/TBOTS - RoboCup Field.jpg" width="355"> <img src="/assets/TBOTS - ROBOT.jpg" width="266">
 
 #### Kick Speed Tester - Altium Circuit Schematic & Layout
 
@@ -116,7 +116,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 - UI board - Updated ribbon cable pin order to match with Motor Driver board, updated connections to Raspberry Pi, fixed trace connections, integrated with MECH to determine best location for board placement/mounting of UI and Motor Driver boards
 - Soldering various components onto Power, UI, Motor Driver, and IMU boards
 
-<img src="./assets/UI BOARD LAYOUT.png" width="355"> <img src="./assets/UI BOARD 3D VIEW.png" width="355.8">
+<img src="/assets/UI BOARD LAYOUT.png" width="355"> <img src="/assets/UI BOARD 3D VIEW.png" width="355.8">
 
 ## Wall Painting Robot
 IGEN 330 Capstone - Circuitry Design & Software
@@ -127,7 +127,7 @@ IGEN 330 Capstone - Circuitry Design & Software
 
 - Designed an autonomous robot to detect a wall, locate the base trim, and accurately paint a line above the trim, eliminating the most difficult and time consuming part of painting your walls.
 
-<img src="./assets/330 - Picture of Painted Line.jpg" width="350">
+<img src="/assets/330 - Picture of Painted Line.jpg" width="350">
 
 #### Circuitry Design & Software
 
@@ -137,10 +137,8 @@ IGEN 330 Capstone - Circuitry Design & Software
 - Wrote code for driving with omni wheels - troubleshooting motor driving, force distribution of driving against the wall, motor stalling
 - Supported design and implementation of linear actuators and limit switches for vertical and horizontal positioning as well as motor driving for consistent paint dispensing
 
-<img src="./assets/330 - circuit schematic.png" width="350"><img src="./assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="350">
+<img src="/assets/330 - circuit schematic.png" width="350"><img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="350">
 
-
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/330 - circuit schematic.png)](</ko-vera/ko-vera.github.io/blob/main/assets/330 - circuit schematic.png>)
 
 ----
 
