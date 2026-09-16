@@ -54,10 +54,9 @@ permalink: /electrical/
 <nav class="toc-sidebar" markdown="1">
 
 On this page:
-- [Sarcomere Dynamics](#sarcomere-dynamics---electrical-team)
-- [UBC Thunderbots](#ubc-thunderbots---electrical-team)
-- [IGEN 330 Capstone](#igen-330-capstone---circuitry-design--software)
-- [IGEN 230 Line Following Robot](#igen-230-line-following-robot---individual-project)
+- [Sarcomere Dynamics](#sarcomere-dynamics)
+- [UBC Thunderbots](#ubc-thunderbots)
+- [IGEN 330 Capstone](#wall-painting-robot)
 
 </nav>
 
@@ -110,8 +109,8 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/UI BOARD LAYOUT.png)](</ko-vera/ko-vera.github.io/blob/main/assets/UI BOARD LAYOUT.png>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/UI BOARD 3D VIEW.png)](</ko-vera/ko-vera.github.io/blob/main/assets/UI BOARD 3D VIEW.png>)
 
-## IGEN 330 Capstone - Circuitry Design & Software
-
+## Wall Painting Robot
+IGEN 330 Capstone - Circuitry Design & Software
 *(See the [Mechanical Design](/mechanical/#igen-330-capstone---mechanical-design) side of this project on the Mechanical page.)*
 
 #### Project Description
