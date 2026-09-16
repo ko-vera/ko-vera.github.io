@@ -66,17 +66,17 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 
 <a class="project-tile" href="/sarcomere">
 <span class="tile-title">Sarcomere Dynamics</span>
-<span class="tile-desc">Electrical Engineering Co-op (Jan 2026 - Aug 2026)</span>
+<span class="tile-desc">PCB Design, Firmware & Software, Testing</span>
 </a>
 
 <a class="project-tile" href="/electrical/#ubc-thunderbots---electrical-team">
 <span class="tile-title">UBC Thunderbots</span>
-<span class="tile-desc">RoboCup electronics, PCB design & testing</span>
+<span class="tile-desc">PCB Design & Testing</span>
 </a>
 
 <a class="project-tile" href="/electrical/#igen-330-capstone---circuitry-design--software">
-<span class="tile-title">IGEN 330 Capstone</span>
-<span class="tile-desc">Circuitry design & embedded software</span>
+<span class="tile-title">Wall Painting Robot</span>
+<span class="tile-desc">IGEN 330 Capstone</span>
 </a>
 
 <a class="project-tile" href="/electrical/#igen-230-line-following-robot---individual-project">
