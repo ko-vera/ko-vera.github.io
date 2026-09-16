@@ -19,7 +19,7 @@ permalink: /electrical/
 - Tested and tuned control for robotic fingers and wrist through PID tuning and Python scripting; board bring up; diagnosed firmware, software, and hardware issues using data trend analysis, mechanical failure mode analysis, and oscilloscope inspection of CANBUS signals.
 - Implemented impedance control so the wrist and fingers yield to external interference and return to position – critical for safe human-robot interaction.
   
-<img src="/assets/hand-display-11.png" width="450">
+<img src="/assets/hand-display-11.png" width="350">
 
 ## UBC Thunderbots - Electrical Team
 
@@ -34,13 +34,11 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sep
 <img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="450"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="450">
 <img src="/assets/TBOTS - RoboCup Field.jpg" width="450"> <img src="/assets/TBOTS - ROBOT.jpg" width="337">
 
-[![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/TBOTS - DEBUGGING PT2.jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/TBOTS - DEBUGGING PT2.jpg>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/TBOTS - DEBUGGING.jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/TBOTS - DEBUGGING.jpg>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/TBOTS - RoboCup Field.jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/TBOTS - RoboCup Field.jpg>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/TBOTS - ROBOT.jpg)](</ko-vera/ko-vera.github.io/blob/main/assets/TBOTS - ROBOT.jpg>)
-
 #### Kick Speed Tester - Altium Circuit Schematic & Layout
 
 - Completed the circuit schematic for a kickspeed tester and am currently working on the PCB board layout for the phototransistor side of the kick speed tester arch shown below
 - Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured.
-
+<img src="/assets/kickspeed_circuit_schem.png" width="450">
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/Screenshot 2024-11-12 120847.png)](</ko-vera/ko-vera.github.io/blob/main/assets/Screenshot 2024-11-12 120847.png>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/Screenshot 2025-01-11 225837.png)](</ko-vera/ko-vera.github.io/blob/main/assets/Screenshot 2025-01-11 225837.png>)
 
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/Screenshot 2025-01-21 205145.png)](</ko-vera/ko-vera.github.io/blob/main/assets/Screenshot 2025-01-21 205145.png>) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/Screenshot 2025-01-21 205001.png)](</ko-vera/ko-vera.github.io/blob/main/assets/Screenshot 2025-01-21 205001.png>)
