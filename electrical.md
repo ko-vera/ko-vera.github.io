@@ -7,7 +7,8 @@ permalink: /electrical/
 
 # ⚡ Electrical Work
 
-## [Sarcomere Dynamics](https://sarcomeredynamics.com/home) - Electrical Engineering Co-op (Jan 2026 - Aug 2026)
+## Sarcomere Dynamics
+Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.com/home) (Jan 2026 - Aug 2026)
 
 - Designed the circuit, specified components, and laid out a PCB for a power management board (BMS) converting an 11.1V input to 5V (Raspberry Pi) and 24V (grippers in the Sarcomere product line) for a portable demo unit; sized trace widths and via counts per IPC-2221 to meet 7A/3A output requirements, and optimized MOSFET placement to minimize switching loop inductance.
 - Led refactoring of communication architecture in C/C++ for the Artus Lite robotic hand, including MODBUS slave implementation (command parsing, register mapping, response frame generation) to improve modularity and standardize with the broader robotic gripper codebase.
@@ -21,7 +22,7 @@ permalink: /electrical/
   
 <img src="/assets/hand-display-11.png" width="350">
 
-## UBC Thunderbots - Electrical Team
+## UBC Thunderbots
 
 Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) (Sept 2024 - July 2026)
 
