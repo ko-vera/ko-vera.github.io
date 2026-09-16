@@ -59,8 +59,7 @@ On this page:
 - [Wall Painting Robot](#wall-painting-robot)
 - [Energy Harvesting Keyboard](#energy-harvesting-keyboard)
 
-[← Back to Home](/) · [Electrical Work →](/electrical/)
-
+[← Back to Home](/)
 </nav>
 
 <div class="toc-content" markdown="1">
