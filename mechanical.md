@@ -125,6 +125,8 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 #### Solidworks CAD Parts & Assembly
 
 - Designed all parts, compiled assemblies, & ran motion studies
+<img src="/assets/Untitled video - Made with Clipchamp (3).gif" width="350">
+<video src="/assets/330 - Wall Painting Robot Video.mp4" width="300" controls></video>
 
 [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/numpadbreakdown)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/numpadbreakdown) [![](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/numpadexploded)](https://github.com/ko-vera/ko-vera.github.io/blob/main/assets/numpadexploded) [![Untitled video - Made with Clipchamp](https://private-user-images.githubusercontent.com/91451073/320353921-953a51cf-c60d-465f-b170-7065d8c8f2f6.gif)](https://private-user-images.githubusercontent.com/91451073/320353921-953a51cf-c60d-465f-b170-7065d8c8f2f6.gif)
 
