@@ -106,9 +106,9 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 - Kick speed tester contains two beams created by two emitters and two transistors. When the ball passes through the arch, the beams are broken and the time between them being broken is measured.
 
 
-<img src="./assets/kickspeed_circuit_schem.png" width="355"> <img src="./assets/kickspeed_arch_cad.png" width="356">
+<img src="/assets/kickspeed_circuit_schem.png" width="355"> <img src="/assets/kickspeed_arch_cad.png" width="356">
 
-<img src="./assets/kickspeed_pcb_2D.png" width="365"> <img src="./assets/kickspeed_pcb_3D.png" width="350">
+<img src="/assets/kickspeed_pcb_2D.png" width="365"> <img src="/assets/kickspeed_pcb_3D.png" width="350">
 
 #### Various Projects
 
@@ -121,7 +121,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 ## Wall Painting Robot
 IGEN 330 Capstone - Circuitry Design & Software
 
-*(See the [Mechanical Design](/mechanical/#igen-330-capstone---mechanical-design) side of this project on the Mechanical page.)*
+*(See the [Mechanical Design](/mechanical/#wall-painting-robot) side of this project on the Mechanical page.)*
 
 #### Project Description
 
