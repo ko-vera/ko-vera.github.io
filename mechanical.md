@@ -5,6 +5,64 @@ permalink: /mechanical/
 
 [← Back to Home](/) · [Electrical Work →](/electrical/)
 
+<style>
+.toc-layout {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+.toc-sidebar {
+  flex: 0 0 220px;
+  position: sticky;
+  top: 20px;
+  padding: 16px;
+  border: 2px solid #2B547E;
+  border-radius: 10px;
+  background: #f5f9ff;
+}
+.toc-sidebar p {
+  margin: 0 0 10px 0;
+  font-weight: bold;
+  color: #2B547E;
+}
+.toc-sidebar ul {
+  margin: 0;
+  padding-left: 18px;
+}
+.toc-sidebar li {
+  margin-bottom: 8px;
+}
+.toc-content {
+  flex: 1;
+  min-width: 0;
+}
+@media (max-width: 768px) {
+  .toc-layout {
+    flex-direction: column;
+  }
+  .toc-sidebar {
+    position: static;
+    width: 100%;
+    flex-basis: auto;
+  }
+}
+</style>
+
+<div class="toc-layout">
+
+<nav class="toc-sidebar" markdown="1">
+
+On this page:
+- [Tycrop Manufacturing](#tycrop-manufacturing---mechanical-team)
+- [UBC Sailbot](#ubc-sailbot---mechanical-team)
+- [IGEN 330 Capstone](#igen-330-capstone---mechanical-design)
+- [IGEN 230 Capstone](#igen-230-capstone)
+
+</nav>
+
+<div class="toc-content" markdown="1">
+  
 # ⚙️ Mechanical Work
 
 ## Tycrop Manufacturing - Mechanical Team
