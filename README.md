@@ -8,7 +8,140 @@
 ----
 Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :) 
 
+
+[![Headshot](https://github.com/ko-vera/ko-vera.github.io/raw/main/assets/HEADSHOT.jpg)](/ko-vera/ko-vera.github.io/blob/main/assets/HEADSHOT.jpg) **4th Year UBC Integrated Engineering Student - Electrical & Mechanical**
+
+----
+
+Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my skills a little better :)
+
 Browse my work by discipline:
+
+<style>
+.discipline-columns {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+.discipline-column {
+  flex: 1;
+  min-width: 260px;
+}
+.column-title {
+  display: block;
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-bottom: 14px;
+}
+.project-tile {
+  display: block;
+  padding: 16px 18px;
+  margin-bottom: 12px;
+  border: 2px solid #2B547E;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #2B547E;
+  background: #f5f9ff;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.project-tile:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+.project-tile .tile-title {
+  display: block;
+  font-weight: bold;
+  font-size: 1.05em;
+  margin-bottom: 4px;
+}
+.project-tile .tile-desc {
+  display: block;
+  margin: 0;
+  color: #333;
+  font-size: 0.92em;
+}
+.project-tile.see-all {
+  text-align: center;
+  font-weight: bold;
+  background: #eaf1fb;
+}
+</style>
+
+<div class="discipline-columns">
+
+<div class="discipline-column">
+<span class="column-title">⚡ Electrical</span>
+
+<a class="project-tile" href="/electrical/#sarcomere-dynamics---electrical-team">
+<span class="tile-title">Sarcomere Dynamics</span>
+<span class="tile-desc">Electrical Engineering Co-op (Jan 2026 - Aug 2026)</span>
+</a>
+
+<a class="project-tile" href="/electrical/#ubc-thunderbots---electrical-team">
+<span class="tile-title">UBC Thunderbots</span>
+<span class="tile-desc">RoboCup electronics, PCB design & testing</span>
+</a>
+
+<a class="project-tile" href="/electrical/#igen-330-capstone---circuitry-design--software">
+<span class="tile-title">IGEN 330 Capstone</span>
+<span class="tile-desc">Circuitry design & embedded software</span>
+</a>
+
+<a class="project-tile" href="/electrical/#igen-230-line-following-robot---individual-project">
+<span class="tile-title">IGEN 230 Line Following Robot</span>
+<span class="tile-desc">Individual circuitry & coding project</span>
+</a>
+
+<a class="project-tile see-all" href="/electrical/">See all Electrical Work →</a>
+
+</div>
+
+<div class="discipline-column">
+<span class="column-title">⚙️ Mechanical</span>
+
+<a class="project-tile" href="/mechanical/#tycrop-manufacturing---mechanical-team">
+<span class="tile-title">Tycrop Manufacturing</span>
+<span class="tile-desc">Mechanical Design Engineering Co-op (May 2025 - Dec 2025)</span>
+</a>
+
+<a class="project-tile" href="/mechanical/#ubc-sailbot---mechanical-team">
+<span class="tile-title">UBC Sailbot</span>
+<span class="tile-desc">CAD, structural analysis & ELEC integration</span>
+</a>
+
+<a class="project-tile" href="/mechanical/#igen-330-capstone---mechanical-design">
+<span class="tile-title">IGEN 330 Capstone</span>
+<span class="tile-desc">Mechanical design & CAD</span>
+</a>
+
+<a class="project-tile" href="/mechanical/#igen-230-capstone">
+<span class="tile-title">IGEN 230 Capstone</span>
+<span class="tile-desc">Piezoelectric numpad — CAD & assembly</span>
+</a>
+
+<a class="project-tile see-all" href="/mechanical/">See all Mechanical Work →</a>
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Electrical
 
 <style>
 .portfolio-links {
