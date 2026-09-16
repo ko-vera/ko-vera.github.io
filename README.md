@@ -52,6 +52,11 @@ Browse my work by discipline:
 <p>Circuit design, PCB layout, firmware, wiring, and testing — Sarcomere Dynamics, UBC Thunderbots, and capstone electronics.</p>
 </a>
 
+<a href="/sarcomere/">
+<span class="card-title">⚡ Sarcomere </span>
+<p>Circuit design, PCB layout, firmware, wiring, and testing — Sarcomere Dynamics, UBC Thunderbots, and capstone electronics.</p>
+</a>
+
 <a href="/mechanical/">
 <span class="card-title">⚙️ Mechanical Work</span>
 <p>CAD, structural design, and mechanical integration — Tycrop Manufacturing, UBC Sailbot, and capstone mechanical design.</p>
