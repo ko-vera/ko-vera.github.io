@@ -53,8 +53,6 @@ permalink: /electrical/
 
 <nav class="toc-sidebar" markdown="1">
 
-[Mechanical Work →](/mechanical/)
-
 On this page:
 - [Sarcomere Dynamics](#sarcomere-dynamics)
 - [UBC Thunderbots](#ubc-thunderbots)

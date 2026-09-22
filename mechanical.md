@@ -53,8 +53,6 @@ permalink: /mechanical/
 
 <nav class="toc-sidebar" markdown="1">
 
-[Electrical Work →](/electrical/)
-
 On this page:
 - [Tycrop Manufacturing](#tycrop-manufacturing)
 - [UBC Sailbot](#ubc-sailbot)
