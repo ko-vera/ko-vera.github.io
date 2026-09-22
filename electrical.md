@@ -56,7 +56,7 @@ permalink: /electrical/
 On this page:
 - [Sarcomere Dynamics](#sarcomere-dynamics)
 - [UBC Thunderbots](#ubc-thunderbots)
-- [3rd Yr Capstone](#3rd-yr-capstone---autonomous-wall-painting-robot)
+- [3rd Yr Capstone](#rd-yr-capstone---autonomous-wall-painting-robot)
 
 [← Back to Home](/)
 </nav>
@@ -121,7 +121,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 ## 3rd Yr Capstone - Autonomous Wall Painting Robot
 Circuitry Design & Software
 
-*(See the [Mechanical Design](/mechanical/#3rd-yr-capstone---autonomous-wall-painting-robot) side of this project on the Mechanical page.)*
+*(See the [Mechanical Design](/mechanical/#rd-yr-capstone---autonomous-wall-painting-robot) side of this project on the Mechanical page.)*
 
 #### Project Description
 

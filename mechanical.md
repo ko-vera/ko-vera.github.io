@@ -56,7 +56,7 @@ permalink: /mechanical/
 On this page:
 - [Tycrop Manufacturing](#tycrop-manufacturing)
 - [UBC Sailbot](#ubc-sailbot)
-- [3rd Yr Capstone](#3rd-yr-capstone---autonomous-wall-painting-robot)
+- [3rd Yr Capstone](#rd-yr-capstone---autonomous-wall-painting-robot)
 
 [← Back to Home](/)
 </nav>
@@ -116,7 +116,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 
 Mechanical Design
 
-*(See the [Circuitry Design & Software](/electrical/#3rd-yr-capstone---autonomous-wall-painting-robot) side of this project on the Electrical page.)*
+*(See the [Circuitry Design & Software](/electrical/#rd-yr-capstone---autonomous-wall-painting-robot) side of this project on the Electrical page.)*
 
 #### Project Description
 
