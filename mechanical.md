@@ -56,7 +56,7 @@ permalink: /mechanical/
 On this page:
 - [Tycrop Manufacturing](#tycrop-manufacturing)
 - [UBC Sailbot](#ubc-sailbot)
-- [Wall Painting Robot](#wall-painting-robot)
+- [Wall Painting Robot](#autonomous-wall-painting-robot)
 - [Energy Harvesting Keyboard](#energy-harvesting-keyboard)
 
 [← Back to Home](/)
@@ -70,6 +70,19 @@ On this page:
 
 Mechanical Design Engineering Co-op at [Tycrop](https://tycrop.com/) (May 2025 - Dec 2025)
 
+#### Solidworks CAD Sheet Metal Parts, Weldments, Drawings
+- Designed complex SOLIDWORKS CAD models and assemblies for an exhaust/radiator system supporting large-scale natural gas power generation units
+- Designed piping, valves, fans, tanks, and mounts using 3D sketching for asymmetrical piping layouts
+- Earned CSWA (Certified SOLIDWORKS Associate)
+- Developed system designs from customer P&ID and collaborated with the electrical team to integrate piping, instrumentation, and components within space and environmental constraints; developed, modified, and verified drawings for parts, assemblies, and weldments.
+
+#### Material Selection & Design Choices
+- Sized HSS beams through structural analysis to provide structural support for the exhaust/radiator system.
+- Calculated thermal expansion of large-scale piping runs to inform mounting plate design and gasket/fastener selection, ensuring appropriate pipe movement under load.
+- Researched and documented proprietary sound attenuation technology for future patent application, and recommended acoustic insulation materials optimized for thermal, chemical, and weight/thickness constraints.
+- Collaborated directly with suppliers and external partner companies to outsource part fabrication, coordinating drawing revisions to align with partner-specific design and documentation standards.
+
+
 ## UBC Sailbot
 
 Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan 2022 - Sept 2024)
@@ -78,7 +91,8 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 
 - Designed motor, shafts, & timing belt as well as compiled assembly
 
-[![](https://private-user-images.githubusercontent.com/91451073/320323400-18be7fbe-1d6d-4935-bb8d-18311dc1d2e1.png)](https://private-user-images.githubusercontent.com/91451073/320323400-18be7fbe-1d6d-4935-bb8d-18311dc1d2e1.png) [![](https://private-user-images.githubusercontent.com/91451073/320323743-dcda9d7b-4d81-40f5-aba7-b0ffed2962ce.png)](https://private-user-images.githubusercontent.com/91451073/320323743-dcda9d7b-4d81-40f5-aba7-b0ffed2962ce.png)
+<img src="/assets/SAILBOT - rudderassem.png" width="350"> <img src="/assets/SAILBOT - timing belt.png" width="350">
+
 
 #### Structural Stress Calculations
 
@@ -99,7 +113,7 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 <img src="/assets/wormgearcalc" width="350"> <img src="/assets/wormgearcalc2" width="350">
 
 
-## Wall Painting Robot
+## Autonomous Wall Painting Robot
 
 *(See the [Circuitry Design & Software](/electrical/#igen-330-capstone---circuitry-design--software) side of this project on the Electrical page.)*
 

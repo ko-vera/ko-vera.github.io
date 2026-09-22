@@ -56,7 +56,7 @@ permalink: /electrical/
 On this page:
 - [Sarcomere Dynamics](#sarcomere-dynamics)
 - [UBC Thunderbots](#ubc-thunderbots)
-- [Wall Painting Robot](#wall-painting-robot)
+- [Wall Painting Robot](#autonomous-wall-painting-robot)
 
 [← Back to Home](/)
 </nav>
@@ -118,7 +118,7 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 
 <img src="/assets/UI BOARD LAYOUT.png" width="355"> <img src="/assets/UI BOARD 3D VIEW.png" width="355.8">
 
-## Wall Painting Robot
+## Autonomous Wall Painting Robot
 IGEN 330 Capstone - Circuitry Design & Software
 
 *(See the [Mechanical Design](/mechanical/#wall-painting-robot) side of this project on the Mechanical page.)*
