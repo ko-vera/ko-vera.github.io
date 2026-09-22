@@ -56,7 +56,7 @@ permalink: /electrical/
 On this page:
 - [Sarcomere Dynamics](#sarcomere-dynamics)
 - [UBC Thunderbots](#ubc-thunderbots)
-- [Wall Painting Robot](#autonomous-wall-painting-robot)
+- [Autonomous Wall Painting Robot](#autonomous-wall-painting-robot)
 
 [← Back to Home](/)
 </nav>
