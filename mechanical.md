@@ -56,8 +56,7 @@ permalink: /mechanical/
 On this page:
 - [Tycrop Manufacturing](#tycrop-manufacturing)
 - [UBC Sailbot](#ubc-sailbot)
-- [Autonomous Wall Painting Robot](#autonomous-wall-painting-robot)
-- [Energy Harvesting Keyboard](#energy-harvesting-keyboard)
+- [Capstone - Autonomous Wall Painting Robot](#capstone---autonomous-wall-painting-robot)
 
 [← Back to Home](/)
 </nav>

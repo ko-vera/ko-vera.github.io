@@ -79,11 +79,6 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <span class="tile-desc">Circuit Design, Motor Control</span>
 </a>
 
-<a class="project-tile" href="/electrical/#energy-harvesting-keyboard">
-<span class="tile-title">Energy Harvesting Keyboard</span>
-<span class="tile-desc">Circuit Design</span>
-</a>
-
 <a class="project-tile see-all" href="/electrical/">See all Electrical Work →</a>
 
 </div>
@@ -120,7 +115,4 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <h2>About Me</h2>
 
 <p>I am an Integrated Engineering (IGEN) Student who is fascinated by robotics and excited by any problem solving opportunity. I strive to make a significant positive impact on others in everything I do.</p>
-
-<p>Apart from Engineering, I enjoy the performance arts - specifically playing the oboe, and I sometimes dabble in the visual arts - including drawing and painting. If you're curious of these hobbies, feel free to click the links below for some visuals!</p>
-
 </div>
