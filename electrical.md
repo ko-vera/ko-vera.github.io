@@ -69,7 +69,7 @@ On this page:
 Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.com/home) (Jan 2026 - Aug 2026)
 
 #### Hardware - BMS Circuit Design & PCB
-- Designed the circuit, specified components, and laid out a PCB for a battery management system (BMS) converting an 11.1V input to 5V (Raspberry Pi) and 24V (grippers in the Sarcomere product line) for a portable demo unit; sized trace widths and via counts per IPC-2221 to meet 7A/3A output requirements, and optimized MOSFET placement to minimize switching loop inductance.
+- Redesigned the circuit, specified components, and laid out a PCB for a battery management system (BMS) converting an 11.1V input to 5V (Raspberry Pi) and 24V (grippers in the Sarcomere product line) for a portable demo unit; sized trace widths and via counts per IPC-2221 to meet 7A/3A output requirements, and optimized MOSFET placement to minimize switching loop inductance.
 
 #### Firmware & Software - Artus Lite Firmware & User API Refactoring
 - Led refactoring of communication architecture in C/C++ for the Artus Lite robotic hand, including MODBUS slave implementation (command parsing, register mapping, response frame generation) to improve modularity and standardize with the broader robotic gripper codebase.
