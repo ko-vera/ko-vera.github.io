@@ -74,14 +74,14 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <span class="tile-desc">PCB Design & Testing</span>
 </a>
 
-<a class="project-tile" href="/electrical/#igen-330-capstone---circuitry-design--software">
-<span class="tile-title">Wall Painting Robot</span>
-<span class="tile-desc">IGEN 330 Capstone</span>
+<a class="project-tile" href="/electrical/#capstone---autonomous-line-following-robot">
+<span class="tile-title">Capstone - Autonomous Wall Painting Robot</span>
+<span class="tile-desc">Circuit Design, Motor Control</span>
 </a>
 
-<a class="project-tile" href="/electrical/#igen-230-line-following-robot---individual-project">
-<span class="tile-title">IGEN 230 Line Following Robot</span>
-<span class="tile-desc">Individual circuitry & coding project</span>
+<a class="project-tile" href="/electrical/#energy-harvesting-keyboard">
+<span class="tile-title">Energy Harvesting Keyboard</span>
+<span class="tile-desc">Circuit Design</span>
 </a>
 
 <a class="project-tile see-all" href="/electrical/">See all Electrical Work →</a>
@@ -91,24 +91,19 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <div class="discipline-column">
 <span class="column-title">⚙️ Mechanical</span>
 
-<a class="project-tile" href="/mechanical/#tycrop-manufacturing---mechanical-team">
+<a class="project-tile" href="/mechanical/#tycrop-manufacturing">
 <span class="tile-title">Tycrop Manufacturing</span>
-<span class="tile-desc">Mechanical Design Engineering Co-op (May 2025 - Dec 2025)</span>
+<span class="tile-desc"> CAD, Manufacturing & Design Validation</span>
 </a>
 
-<a class="project-tile" href="/mechanical/#ubc-sailbot---mechanical-team">
+<a class="project-tile" href="/mechanical/#ubc-sailbot">
 <span class="tile-title">UBC Sailbot</span>
-<span class="tile-desc">CAD, structural analysis & ELEC integration</span>
+<span class="tile-desc">CAD, Structural analysis & ELEC integration</span>
 </a>
 
-<a class="project-tile" href="/mechanical/#igen-330-capstone---mechanical-design">
-<span class="tile-title">IGEN 330 Capstone</span>
-<span class="tile-desc">Mechanical design & CAD</span>
-</a>
-
-<a class="project-tile" href="/mechanical/#igen-230-capstone">
-<span class="tile-title">IGEN 230 Capstone</span>
-<span class="tile-desc">Piezoelectric numpad — CAD & assembly</span>
+<a class="project-tile" href="/mechanical/#capstone---autonomous-wall-painting-robot">
+<span class="tile-title">Capstone - Autonomous Wall Painting Robot</span>
+<span class="tile-desc">CAD, Assembly, Manufacturing</span>
 </a>
 
 <a class="project-tile see-all" href="/mechanical/">See all Mechanical Work →</a>

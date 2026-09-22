@@ -113,9 +113,9 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 <img src="/assets/wormgearcalc" width="350"> <img src="/assets/wormgearcalc2" width="350">
 
 
-## Autonomous Wall Painting Robot
+## Capstone - Autonomous Wall Painting Robot
 
-*(See the [Circuitry Design & Software](/electrical/#igen-330-capstone---circuitry-design--software) side of this project on the Electrical page.)*
+*(See the [Circuitry Design & Software](/electrical/#capstone---autonomous-wall-painting-robot) side of this project on the Electrical page.)*
 
 #### Project Description
 
@@ -132,18 +132,6 @@ Rudder Mechanical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Jan
 
 <img src="/assets/330 - Iso View (Sensors + Applicator).jpg" width="350">
 <img src="/assets/330 - Robot Side View (Chassis, Motors, Wheels).jpg" width="350">
-
-
-## Energy Harvesting Keyboard
-
-#### Project Description
-
-- Used Piezoelectric discs to harvest and store energy using the tapping motion of keys on a numpad
-
-#### Solidworks CAD Parts & Assembly
-
-- Designed all parts, compiled assemblies, & ran motion studies
-<video src="/assets/330 - Wall Painting Robot Video.mp4" width="280" controls></video>
 
 ----
 
