@@ -74,8 +74,8 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <span class="tile-desc">PCB Design & Testing</span>
 </a>
 
-<a class="project-tile" href="/electrical/#capstone---autonomous-line-following-robot">
-<span class="tile-title">Capstone - Autonomous Wall Painting Robot</span>
+<a class="project-tile" href="/electrical/#3rd-yr-capstone---autonomous-wall-painting-robot">
+<span class="tile-title">3rd Yr Capstone - Autonomous Wall Painting Robot</span>
 <span class="tile-desc">Circuit Design, Motor Control</span>
 </a>
 
@@ -96,8 +96,8 @@ Hi! Welcome to my Project Portfolio. I hope this helps in getting to know my ski
 <span class="tile-desc">CAD, Structural analysis & ELEC integration</span>
 </a>
 
-<a class="project-tile" href="/mechanical/#capstone---autonomous-wall-painting-robot">
-<span class="tile-title">Capstone - Autonomous Wall Painting Robot</span>
+<a class="project-tile" href="/mechanical/#3rd-yr-capstone---autonomous-wall-painting-robot">
+<span class="tile-title">3rd Yr Capstone - Autonomous Wall Painting Robot</span>
 <span class="tile-desc">CAD, Assembly, Manufacturing</span>
 </a>
 
