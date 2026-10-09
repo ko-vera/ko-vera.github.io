@@ -74,13 +74,11 @@ Electrical Engineering Co-op at [Sarcomere Dynamics](https://sarcomeredynamics.c
 - Tightened the switching loop through MOSFET placement, chose capacitors using datasheet DC bias curves so they hold their capacitance at operating voltage, and sized trace widths and via counts per IPC-2221 for the 7A/3A outputs.
 
 #### Artus Dex - New Product Bring-Up & Validation Testing
-I started testing the Artus Dex, a robotic hand with motor-driven fingers and wrist, knowing nothing about it, with customers waiting to see progress. Within a week, I could debug its boards, mechanics, and software.
 
 - **Bring-up:** brought up and flashed newly assembled motor driver/encoder boards (STM32CubeIDE), resolving failures on 15+ boards and CAN bus faults with oscilloscope probing and reflow/substitution testing.
-- **Test jig:** designed the wrist/finger validation jig (built with the mechanical team), integrating a load cell, thermistors, CAN motor drivers, and a programmable power supply over MODBUS RTU/RS485. Automated Python tests ran across 5 wrist loads (100–500 g), remotely and overnight.
-- **Finding the limits:** with no targets yet, we ran 15+ test rounds a day and pushed the system until something broke to set the first force targets. It was a tag team: I'd narrow each failure from five possible causes to one, fix it or hand it to mechanical or software, and we'd be testing again within a day or two.
+- **Test jig:** designed the wrist/finger validation jig (built with the mechanical team), integrating a load cell, thermistors, CAN motor drivers, and a programmable power supply over MODBUS RTU/RS485 and CAN. Automated Python tests ran across 5 wrist loads (100–500 g), remotely and overnight.
 - **Fixes:** ranged from replacing a breadboard that was dropping CAN messages with a soldered board and sturdier mount, to calibrating the encoders across the full range of motion and tuning the controls for uneven tendon tension.
-- **Result:** a video for customers showing the hand's movement accuracy and initial force output, then impedance control so the wrist and fingers yield to external contact and return to position, critical for safe human-robot interaction.
+- **Result:** quantified hand's movement accuracy and force output, implemented impedance control so the wrist and fingers yield to external contact and return to position, critical for safe human-robot interaction.
 
 #### Artus Lite - Firmware & User API Refactor
 - Refactored the Artus Lite's communication architecture in C/C++ firmware and the Python user API, replacing a proprietary raw-byte command format with MODBUS across UART, RS485, and Wi-Fi TCP to match the rest of the gripper line.
@@ -96,11 +94,8 @@ Electrical Team Member at [UBC Thunderbots](https://www.ubcthunderbots.ca/) Desi
 #### RoboCup 2026 Competition - Incheon, South Korea
 Selected as 1 of 3 members to compete in the Small Size League (SSL) at RoboCup 2026.
 
-Our 240V flyback power boards, which charge the capacitors for each robot's kicker, arrived from the manufacturer three months late. In the month before the competition, I was in the lab every weekend and weeknight after work until past midnight debugging them, with a handful of us working across 11 boards.
-
-- **Debugging:** compared charge and discharge waveforms against the datasheet, probed the controller pins, and chased switching noise that was false-triggering the ICs. Identical boards failed in different ways, so we split shared failures, which needed design fixes, from one-offs we traced board by board.
-- **Fixes:** I reworked the control pins and added firmware fault detection to safely discharge the capacitors on failure. With extra capacitors, bodge wires, and component replacements, we got 6 boards competition-ready, enough to field our full team.
-- **At the competition:** supported on-the-fly fixes across the UI, IMU, motor driver, and power boards.
+- **Debugging:** compared charge and discharge waveforms against the datasheet, probed the controller pins, and chased switching noise that was false-triggering the ICs
+- **Fixes:** firmware fault detection to safely discharge the capacitors on failure, getting 6 boards competition-ready, enough to field our full team; supported on-the-fly fixes across the UI, IMU, motor driver, and power boards.
 - **Carrying it forward:** the switching noise lessons went straight into my [power board redesign at Sarcomere](#power-management-board-redesign).
 
 <img src="/assets/TBOTS - DEBUGGING PT2.jpg" width="355" alt="Debugging power boards at RoboCup 2026"> <img src="/assets/TBOTS - DEBUGGING.jpg" width="355" alt="Team workstations at RoboCup 2026">
