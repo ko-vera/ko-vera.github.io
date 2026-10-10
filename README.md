@@ -68,12 +68,12 @@ I'm currently looking for a **4–8 month co-op starting January 2027**.
 
 <a class="project-tile" href="/electrical/#sarcomere-dynamics">
 <span class="tile-title">Sarcomere Dynamics</span>
-<span class="tile-desc">Power Board Redesign, Test Jig Design, Firmware</span>
+<span class="tile-desc">PCB Design, Firmware & Software, Testing</span>
 </a>
 
 <a class="project-tile" href="/electrical/#ubc-thunderbots">
 <span class="tile-title">UBC Thunderbots</span>
-<span class="tile-desc">RoboCup 2026: 240V Power Board Debugging, PCB Design</span>
+<span class="tile-desc">PCB Design & Testing</span>
 </a>
 
 <a class="project-tile" href="/electrical/#rd-yr-capstone---autonomous-wall-painting-robot">
